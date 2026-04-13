@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .insure one-word domains from Uniq
 
 **Public extract:** 9,297 rows · **Live catalog:** 9,297 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/insure`  
 **Best for:** founders, investors, studios
 
@@ -77,12 +77,12 @@ print(df.head())
 | shop.insure     | resell    | —         | —             | 78             | 54     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | green.insure    | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap                                                 |
 | creator.insure  | available | $9.99     | $94.99        | 70             | 45     | 7      | name.com                                                  |
-| best.insure     | resell    | —         | —             | 82             | 53     | 4      | GoDaddy.com, LLC                                          |
-| about.insure    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                                  |
-| forge.insure    | available | $9.99     | $94.99        | 62             | 45     | 5      | name.com                                                  |
 | bot.insure      | resell    | —         | —             | 80             | 53     | 3      | Dynadot Inc                                               |
+| about.insure    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                                  |
+| mix.insure      | available | $9.99     | $94.99        | 66             | 45     | 3      | name.com                                                  |
+| best.insure     | resell    | —         | —             | 82             | 52     | 4      | GoDaddy.com, LLC                                          |
 | hawaii.insure   | premium   | $123.75   | —             | 70             | 36     | 6      | name.com                                                  |
-| food.insure     | available | $91.98    | —             | 94             | 44     | 4      | namecheap                                                 |
+| forge.insure    | available | $9.99     | $94.99        | 62             | 45     | 5      | name.com                                                  |
 | human.insure    | resell    | —         | —             | 74             | 51     | 5      | Sav.com, LLC - 24                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
