@@ -1,22 +1,22 @@
-# Available .INSURE One-Word Domains (9,297)
+# Available .INSURE One-Word Domains (11,704)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C296%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C297%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C704%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .insure one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,296-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,297 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,704 domains** on the canonical page below.
 
-**Public extract:** 9,296 rows · **Live catalog:** 9,297 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,704 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/insure`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .INSURE one-word domai
 
 ### Files
 
-- `insure.csv` — public CSV extract (9,296 rows)
-- `insure.json` — public JSON extract (9,296 rows)
+- `insure.csv` — public CSV extract (1,000 rows)
+- `insure.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| zero.insure     | available | $9.99     | $94.99        | 112            | 53     | 4      | name.com                                                  |
-| the.insure      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC - 14                                         |
-| free.insure     | premium   | $123.75   | $123.75       | 88             | 57     | 4      | name.com                                                  |
-| real.insure     | available | $91.98    | —             | 78             | 49     | 4      | namecheap                                                 |
-| dot.insure      | resell    | —         | —             | 74             | 58     | 3      | Porkbun LLC                                               |
-| art.insure      | premium   | $520      | $520          | 90             | 52     | 3      | namecheap                                                 |
-| genius.insure   | available | $9.99     | $94.99        | 98             | 45     | 6      | name.com                                                  |
-| search.insure   | resell    | —         | —             | 70             | 57     | 6      | Sav.com, LLC - 19                                         |
-| abc.insure      | premium   | $260      | $260          | 102            | 50     | 3      | namecheap                                                 |
-| creative.insure | available | $9.99     | $94.99        | 92             | 45     | 8      | name.com                                                  |
-| shop.insure     | resell    | —         | —             | 78             | 54     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| green.insure    | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
-| creator.insure  | available | $9.99     | $94.99        | 70             | 45     | 7      | name.com                                                  |
-| bot.insure      | resell    | —         | —             | 80             | 53     | 3      | Dynadot Inc                                               |
-| about.insure    | premium   | $500      | $500          | 94             | 37     | 5      | name.com                                                  |
-| mix.insure      | available | $9.99     | $94.99        | 66             | 45     | 3      | name.com                                                  |
-| best.insure     | resell    | —         | —             | 82             | 52     | 4      | GoDaddy.com, LLC                                          |
-| hawaii.insure   | premium   | $123.75   | —             | 70             | 36     | 6      | name.com                                                  |
-| food.insure     | available | $91.98    | —             | 94             | 44     | 4      | namecheap                                                 |
-| human.insure    | resell    | —         | —             | 74             | 51     | 5      | Sav.com, LLC - 24                                         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| matcha.insure       | available | $9.99     | —             | 86             | 39     | 6      | name.com    |
+| farms.insure        | resell    | —         | —             | 54             | 16     | 5      | Dynadot Inc |
+| homes.insure        | premium   | $84.99    | —             | 86             | 34     | 5      | name.com    |
+| neuroscience.insure | available | $9.99     | —             | 80             | 37     | 12     | name.com    |
+| rewards.insure      | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo    |
+| William.insure      | available | $91.98    | —             | 74             | 31     | 7      | namecheap   |
+| brands.insure       | premium   | $250      | —             | 62             | 28     | 6      | name.com    |
+| letsgo.insure       | available | $9.99     | —             | 57             | 31     | 7      | name.com    |
+| states.insure       | premium   | $250      | —             | 70             | 16     | 6      | name.com    |
+| maps.insure         | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
+| Vehicles.insure     | premium   | $560      | $560          | 49             | 13     | 8      | namecheap   |
+| inspiration.insure  | available | $9.99     | —             | 88             | 30     | 11     | name.com    |
+| LGBTQ.insure        | premium   | —         | —             | 86             | 17     | 5      | —           |
+| blocks.insure       | available | $9.99     | —             | 53             | 29     | 6      | name.com    |
+| commonground.insure | available | $9.99     | —             | 74             | 28     | 13     | name.com    |
+| backyard.insure     | available | $9.99     | —             | 80             | 27     | 9      | name.com    |
+| KFC.insure          | available | $91.98    | —             | 74             | 27     | 3      | namecheap   |
+| trades.insure       | available | $9.99     | —             | 71             | 26     | 6      | name.com    |
+| sites.insure        | available | $9.99     | —             | 53             | 26     | 5      | name.com    |
+| drops.insure        | available | $9.99     | —             | 52             | 25     | 5      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,296-row public sample | 9,297 live domains                               |
+| 1,000-row public sample | 11,704 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
