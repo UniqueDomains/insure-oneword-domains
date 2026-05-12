@@ -74,7 +74,7 @@ print(df.head())
 | letsgo.insure       | available | $9.99     | —             | 57             | 31     | 7      | name.com    |
 | Vehicles.insure     | premium   | $560      | $560          | 49             | 13     | 8      | namecheap   |
 | maps.insure         | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
-| LGBTQ.insure        | premium   | —         | —             | 86             | 17     | 5      | —           |
+| LGBTQ.insure        | premium   | —         | —             | 86             | 20     | 5      | —           |
 | slots.insure        | available | $9.99     | —             | 49             | 31     | 5      | name.com    |
 | inspiration.insure  | available | $9.99     | —             | 88             | 30     | 11     | name.com    |
 | flight.insure       | available | $9.99     | —             | 80             | 29     | 6      | name.com    |
