@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .insure one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $16.80 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/insure`  
 **Best for:** founders, investors, studios
 
@@ -76,10 +76,10 @@ print(df.head())
 | maps.insure         | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
 | LGBTQ.insure        | premium   | —         | —             | 86             | 20     | 5      | —           |
 | slots.insure        | available | $9.99     | —             | 49             | 31     | 5      | name.com    |
-| inspiration.insure  | available | $9.99     | —             | 88             | 30     | 11     | name.com    |
 | flight.insure       | available | $9.99     | —             | 80             | 29     | 6      | name.com    |
 | blocks.insure       | available | $9.99     | —             | 53             | 29     | 6      | name.com    |
 | commonground.insure | available | $9.99     | —             | 74             | 28     | 13     | name.com    |
+| inspiration.insure  | available | $9.99     | —             | 88             | 27     | 11     | name.com    |
 | backyard.insure     | available | $9.99     | —             | 80             | 27     | 9      | name.com    |
 | KFC.insure          | available | $91.98    | —             | 74             | 27     | 3      | namecheap   |
 | trades.insure       | available | $9.99     | —             | 71             | 26     | 6      | name.com    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
