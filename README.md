@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .insure one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,243 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $16.80 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,243 domains · **Median ask:** $12.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/insure`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/insure`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .INSURE one-word domai
 
 ### Files
 
-- `insure.csv` — public CSV extract (1,000 rows)
-- `insure.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `insure.csv`, public CSV extract (1,000 rows)
+- `insure.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| matcha.insure       | available | $9.99     | —             | 86             | 39     | 6      | name.com    |
-| farms.insure        | resell    | —         | —             | 54             | 16     | 5      | Dynadot Inc |
-| homes.insure        | premium   | $84.99    | —             | 86             | 34     | 5      | name.com    |
-| neuroscience.insure | available | $9.99     | —             | 80             | 37     | 12     | name.com    |
-| rewards.insure      | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo    |
-| William.insure      | available | $91.98    | —             | 74             | 31     | 7      | namecheap   |
-| brands.insure       | premium   | $250      | —             | 62             | 28     | 6      | name.com    |
-| letsgo.insure       | available | $9.99     | —             | 57             | 31     | 7      | name.com    |
-| Vehicles.insure     | premium   | $560      | $560          | 49             | 13     | 8      | namecheap   |
-| maps.insure         | available | $9.99     | —             | 56             | 31     | 4      | name.com    |
-| LGBTQ.insure        | premium   | —         | —             | 86             | 20     | 5      | —           |
-| slots.insure        | available | $9.99     | —             | 49             | 31     | 5      | name.com    |
-| flight.insure       | available | $9.99     | —             | 80             | 29     | 6      | name.com    |
-| blocks.insure       | available | $9.99     | —             | 53             | 29     | 6      | name.com    |
-| commonground.insure | available | $9.99     | —             | 74             | 28     | 13     | name.com    |
-| inspiration.insure  | available | $9.99     | —             | 88             | 27     | 11     | name.com    |
-| backyard.insure     | available | $9.99     | —             | 80             | 27     | 9      | name.com    |
-| KFC.insure          | available | $91.98    | —             | 74             | 27     | 3      | namecheap   |
-| trades.insure       | available | $9.99     | —             | 71             | 26     | 6      | name.com    |
-| drops.insure        | available | $9.99     | —             | 52             | 25     | 5      | name.com    |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| act.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| aaa.insure    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| tel.insure    | premium   | $500      | —             | medium         | low    | 3      | name.com          |
+| add.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| bot.insure    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| baby.insure   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
+| are.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| dot.insure    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| city.insure   | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo          |
+| bid.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| new.insure    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| wine.insure   | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| con.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| waste.insure  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC  |
+| phone.insure  | premium   | $242      | $242          | high           | low    | 5      | namesilo          |
+| dew.insure    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
+| sports.insure | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 34 |
+| theft.insure  | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
+| did.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
+| berlin.insure | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .insure domains, which makes it narrower and more category-specific than a mixed-TLD set. Names such as own.insure, bid.insure, cinema.insure, and biological.insure show the range: some are direct and commercial, while others are broader words adapted to an insurance context. For founders, the best choices are usually the ones that read naturally with “insure” and are easy to explain aloud. For investors, the key question is whether the word has clear insurance relevance and realistic resale appeal within a specialized extension. Median ask is 16.81, so pricing discipline matters less than fit, clarity, and avoidable legal risk.
+This set of 12,243 one-word .insure domain names spans compact, brandable terms like toneup, settledown, and getphysical. Median asking price sits near $13, making it easy to compare options before committing to a purchase or renewal budget. Updated daily, the list reflects new .insure names as they become available.
 
-- Prefer words that read cleanly before .insure
-- Check if the term feels native to insurance use
-- Watch for trademark risk in names like Sony.insure
-- Use price, clarity, and recall to rank the set
+- 12,243 one-word .insure domains tracked, updated daily
+- Median asking price near $13 across this .insure selection
+- Short, ownable names ready to register now
+- Compare pricing and renewal before you buy
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
