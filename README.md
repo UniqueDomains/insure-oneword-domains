@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .insure one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,295 domains · **Median ask:** $14.37 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/insure`
 **Best for:** founders, investors, studios
 
@@ -81,7 +81,7 @@ print(df.head())
 | phone.insure  | premium   | $242      | $242          | high           | low    | 5      | namesilo          |
 | dew.insure    | available | $9.99     | —             | medium         | low    | 3      | name.com          |
 | sports.insure | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 34 |
-| theft.insure  | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
+| theft.insure  | premium   | $118.80   | $118.80       | low            | low    | 5      | namesilo          |
 | did.insure    | available | $9.99     | —             | high           | low    | 3      | name.com          |
 | berlin.insure | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .INSURE One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
