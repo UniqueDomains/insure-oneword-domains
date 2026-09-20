@@ -20,14 +20,14 @@ ccb530e5-9af7-4cb5-a067-f68ff579c637,allogamous.insure,available,9.99,94.99,low,
 029b461c-0319-4639-88ab-e2811d3bac55,contraband.insure,available,9.99,,high,low,10,name.com,,,
 062215d5-0445-4c5a-ab95-a53335bcb15d,steal.insure,available,9.99,,high,low,5,name.com,,,
 506d6fb9-b108-4585-bf84-2bfcd94b4f57,anywhere.insure,available,9.99,,high,low,8,name.com,,,
-3bffd48a-d5b4-4c81-98a5-0ee785ec839a,movie.insure,available,9.99,,high,low,5,name.com,,,
+3bffd48a-d5b4-4c81-98a5-0ee785ec839a,movie.insure,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 03:25
 5552781e-30ed-4cf9-beec-8a05bc791f70,having.insure,available,9.99,,high,low,6,name.com,,,
 fa72ea9b-4ff2-461c-90f1-ee74d0ae7399,agone.insure,available,9.99,94.99,low,low,5,name.com,,,
 02221fb3-c403-425f-a342-551f99eb1757,terrible.insure,available,9.99,,high,low,8,name.com,,,
 3c44a539-2a57-4b96-9705-e20963496433,nassau.insure,available,9.99,,high,low,6,name.com,,,
 f8f205b8-a738-45c2-91a2-a93b5b430d9b,slept.insure,available,9.99,,low,low,5,name.com,,,
 0fb9742b-9be2-4975-bb1b-c3c0fc499cb4,voicecall.insure,available,9.99,,high,low,10,name.com,,,
-4bc4c612-ccab-4b5e-adb3-4a3d727541b7,BlackPlague.insure,available,9.99,,low,low,12,name.com,,,
+4bc4c612-ccab-4b5e-adb3-4a3d727541b7,blackplague.insure,available,9.99,,low,low,12,name.com,,,
 a06fd176-d09e-4efe-bde8-9026a3f3244f,bahamas.insure,available,,,high,low,7,,,,
 8b330640-9317-4909-b5d8-38824ad07a95,fanclub.insure,available,9.99,,high,low,8,name.com,,,
 2606050a-3ec0-438b-be9d-b14d0e6a6c52,whitevinegar.insure,available,9.99,,low,low,13,name.com,,,
@@ -41,7 +41,7 @@ c1d37ea1-b5f5-43ae-9c1d-3cf5b3642203,bitter.insure,available,9.99,94.99,low,low,
 f6b57483-b798-46b4-bfe8-7153ac436181,ondemand.insure,available,9.99,,medium,low,9,name.com,,,
 2b60baba-1ada-4b53-9255-5984b843b0e6,peeved.insure,available,9.99,94.99,low,low,6,name.com,,,
 189a46a1-a2cd-46c5-9b43-be6308554629,sat.insure,available,9.99,,high,low,3,name.com,,,
-0c04e82e-23fc-4e79-a2ba-9f84a66b95af,connected.insure,available,72.99,72.99,medium,medium,9,namesilo,,,13/09/2026 03:43
+0c04e82e-23fc-4e79-a2ba-9f84a66b95af,connected.insure,available,72.99,72.99,low,low,9,namesilo,,,19/09/2026 11:24
 fad6d98a-8b3c-42a5-b7d7-6abbfcb8ea82,thirty.insure,available,9.99,94.99,low,low,6,name.com,,,
 307ad53b-c534-45be-b870-14afd302fd45,tooshie.insure,available,9.99,94.99,low,low,7,name.com,,,09/08/2026 11:39
 24d4c9a6-5c2d-4fa0-a62b-168220fa2642,putinaword.insure,available,9.99,,low,low,13,name.com,,,
@@ -69,13 +69,13 @@ ec698dac-9180-42a1-a661-2c340cb8cf0e,new.insure,resell,,,high,medium,3,Porkbun L
 8647ee0f-b5ef-447a-8b65-e23b2b5e1462,calloff.insure,available,9.99,,medium,low,8,name.com,,,
 8e48deab-47d0-4090-a283-61d2f1158a2b,punk.insure,available,9.99,,high,low,4,name.com,,,
 7a2723bb-e0ff-4946-bd18-53543e14c757,pray.insure,available,9.99,,medium,low,4,name.com,,,
-ba4f15cf-9864-42e5-bf25-ca7accaf08e6,Godforbid.insure,available,9.99,,medium,low,10,name.com,,,
+ba4f15cf-9864-42e5-bf25-ca7accaf08e6,godforbid.insure,available,9.99,,medium,low,10,name.com,,,
 48211a28-b029-4e1a-8926-93d10a48e723,rated.insure,available,9.99,,medium,low,5,name.com,,,
 b4853139-9d96-43ab-a11b-5ef680866ec4,oatmeal.insure,available,9.99,,high,low,7,name.com,,,
 681b6aca-282a-47f9-aa45-adfc056b50c9,leavethedooropen.insure,available,9.99,,high,low,19,name.com,,,
 1ae1280a-59e1-4d63-a596-a08f584500d5,funnylooking.insure,available,9.99,,medium,low,13,name.com,,,
 40ec66b6-e61c-49ae-9024-63459dea85a8,transparent.insure,available,9.99,,high,low,11,name.com,,,
-768df1c4-2d34-44d2-a5c3-8e6c03c15371,Astudent.insure,available,9.99,,high,low,9,name.com,,,
+768df1c4-2d34-44d2-a5c3-8e6c03c15371,astudent.insure,available,9.99,,high,low,9,name.com,,,
 8ffd4804-46c8-433f-aeb0-bfe83c60f2e8,howoldareyou.insure,available,9.99,,medium,low,15,name.com,,,
 a77fc64a-a072-4c0d-a4eb-5403e2bf35b9,solo.insure,available,,,high,low,4,,,,
 4c95ae9c-5132-4a7d-abe0-192fd72ad5c9,dotherightthing.insure,available,9.99,,high,low,18,name.com,,,
@@ -96,7 +96,7 @@ ca7830b8-cd81-492b-8536-5b6852b29de0,charles.insure,available,9.99,,high,low,7,n
 7b59b4cd-8b3b-4c76-940c-9f8d857de65c,lowered.insure,available,9.99,,medium,low,7,name.com,,,
 97cdc399-8b72-4da1-bfde-475a76a06445,gratitude.insure,available,9.99,,high,low,9,name.com,,,
 a555c93b-9544-41c8-9fd3-8d7d9a10a318,underestimate.insure,available,9.99,,high,low,13,name.com,,,
-50f38957-12de-4596-874d-3f61efdcb9a9,midSeptember.insure,available,9.99,,high,low,13,name.com,,,
+50f38957-12de-4596-874d-3f61efdcb9a9,midseptember.insure,available,9.99,,high,low,13,name.com,,,
 033bef52-add7-4ffd-ab1c-ca11ef11aee3,producing.insure,available,9.99,,low,low,9,name.com,,,
 f3fa9094-1e63-404c-b63a-21ee59dc4bb0,doubling.insure,available,9.99,,medium,low,8,name.com,,,
 ccb7eb9a-dc93-4bcf-bc88-4639fa833149,basidial.insure,available,9.99,94.99,low,low,8,name.com,,,08/08/2026 22:06
@@ -180,7 +180,7 @@ c3bd7f42-e078-49c6-9fd2-a33049e6a933,shorts.insure,available,9.99,,high,low,6,na
 282a5190-b321-4f78-a152-2b3d70ce3150,accentual.insure,available,9.99,94.99,low,low,9,name.com,,,
 67ef86fc-3d19-45c8-be9a-9e6af717ea65,calendarclock.insure,available,9.99,,high,low,14,name.com,,,
 472cda34-0501-4c5c-820a-137b4e644dc2,ataloss.insure,available,9.99,94.99,low,low,9,name.com,,,07/08/2026 10:58
-1e2f13ee-25cb-4a6a-8b35-12d9223923fc,IamwhatIam.insure,available,9.99,,medium,low,14,name.com,,,
+1e2f13ee-25cb-4a6a-8b35-12d9223923fc,iamwhatiam.insure,available,9.99,,medium,low,14,name.com,,,
 84f006e3-51b7-463b-8020-c5324e4a73e1,eleventh.insure,available,9.99,94.99,low,low,8,name.com,,,
 0bc89d9a-ea47-4652-a2d5-93928f4d8287,biteme.insure,available,9.99,,medium,low,7,name.com,,,
 a8b53efc-e932-4e17-9684-7d62ff64b1b0,indecent.insure,available,9.99,,medium,low,8,name.com,,,
@@ -198,9 +198,9 @@ b427e739-cdf5-418b-9532-ab8c1bdc0f6e,muchas.insure,available,9.99,,medium,low,7,
 1f7ff2ed-8d17-4433-87f9-16fd3ad49986,heavyhanded.insure,available,9.99,,medium,low,12,name.com,,,
 5b15d734-06eb-4aa7-bac8-55c2ea766a9b,oneyearold.insure,available,9.99,,high,low,12,name.com,,,
 a580c124-1515-4e33-811c-b5a4ed8af5af,starred.insure,available,9.99,94.99,low,low,7,name.com,,,07/08/2026 08:52
-9dc17606-e13b-446e-94a1-fb9bb0aa48ec,facts.insure,available,9.99,94.99,medium,low,5,name.com,,,14/09/2026 14:49
+9dc17606-e13b-446e-94a1-fb9bb0aa48ec,facts.insure,available,72.99,72.99,medium,low,5,namesilo,,,19/09/2026 02:38
 65f3bc40-2a66-4584-9665-1de122355f15,abysmal.insure,available,9.99,94.99,low,low,7,name.com,,,
-36e4f6ec-aa42-43e3-87f5-0f703964b763,begin.insure,available,9.99,94.99,medium,low,5,name.com,,,15/09/2026 05:53
+36e4f6ec-aa42-43e3-87f5-0f703964b763,begin.insure,available,76.98,91.98,medium,low,5,namecheap,,,19/09/2026 05:29
 7cc4ac57-2eea-4262-9154-6b2a233247bf,stand.insure,available,9.99,,high,low,5,name.com,,,
 78e98a2f-53e7-4991-bd7a-a0ba0e999d33,bestloved.insure,available,9.99,,high,low,10,name.com,,,
 6f357fff-3e3f-470b-88aa-ff4c524489f5,lxvi.insure,available,9.99,94.99,low,low,4,name.com,,,
@@ -230,7 +230,7 @@ ed37f208-3eb2-488a-995f-16f4291262ef,childsupport.insure,available,9.99,,medium,
 0f50974c-3252-41e1-96fb-f993adafe8f6,lord.insure,available,9.99,94.99,high,low,4,name.com,,,
 241629d0-431a-44e4-a7f2-b89fd0ef4ec5,noreally.insure,available,9.99,,high,low,9,name.com,,,
 5a0a009a-44af-4e09-a94b-831e226cfd3e,waterless.insure,available,9.99,94.99,low,low,9,name.com,,,06/08/2026 19:03
-28fe268c-c88b-4f12-b9c7-a2b51b5c34cc,schoolbook.insure,available,76.98,91.98,medium,low,11,namecheap,,,14/09/2026 19:18
+28fe268c-c88b-4f12-b9c7-a2b51b5c34cc,schoolbook.insure,available,72.99,72.99,medium,low,11,namesilo,,,19/09/2026 07:03
 81c5689d-ab78-4eca-87a8-567693917149,maudlin.insure,available,9.99,94.99,low,low,7,name.com,,,09/08/2026 00:42
 a1abbaf0-b923-49f1-ab40-dcea58e98dc5,dewy.insure,available,9.99,94.99,low,low,4,name.com,,,09/08/2026 06:51
 9191d286-e641-4509-bfc3-1e2a8b08eb68,traveller.insure,available,9.99,,medium,low,9,name.com,,,
@@ -238,7 +238,7 @@ d397c747-ac3f-4ec5-836c-875fd24208f0,income.insure,premium,242,242,high,low,6,na
 097d4a8c-2fea-4b86-9157-3c790cd38fe7,antic.insure,available,9.99,94.99,low,low,5,name.com,,,
 8c2af866-82cb-46dd-9df1-9ee3be802c64,pan.insure,available,9.99,,high,low,3,name.com,,,
 73592f95-228b-4605-93c7-193897a2c063,released.insure,available,9.99,,low,low,8,name.com,,,
-95418a84-6a81-4847-b3f6-3bce6ae3d862,PubMed.insure,available,9.99,,high,low,6,name.com,,,
+95418a84-6a81-4847-b3f6-3bce6ae3d862,pubmed.insure,available,9.99,,high,low,6,name.com,,,
 901b43a7-f441-4ad1-a526-c7859c5f6afd,watchover.insure,available,9.99,,high,low,10,name.com,,,
 e4f9c652-4c77-4520-a8a7-d21d3f120873,xxxiii.insure,available,9.99,94.99,low,low,6,name.com,,,
 6360e650-cbd6-4ce7-9fd5-0107c25e4ede,augustan.insure,available,9.99,94.99,low,low,8,name.com,,,07/08/2026 17:15
@@ -252,7 +252,7 @@ e4f9c652-4c77-4520-a8a7-d21d3f120873,xxxiii.insure,available,9.99,94.99,low,low,
 30ab643b-7541-4c7f-a426-c618854f984a,getoff.insure,available,9.99,,high,low,7,name.com,,,
 dba51ab2-8684-45ae-b61f-92d180297ef6,adsorptive.insure,available,9.99,94.99,low,low,10,name.com,,,
 1a645b89-b8e5-43f6-b2bf-9e36ade23c18,leader.insure,available,9.99,,high,low,6,name.com,,,
-19731b0a-add7-4a6c-82ab-4aef03d0cb66,Ijustworkhere.insure,available,9.99,,medium,low,16,name.com,,,
+19731b0a-add7-4a6c-82ab-4aef03d0cb66,ijustworkhere.insure,available,9.99,,medium,low,16,name.com,,,
 9b32b83a-d0aa-45fa-8303-d5cb9ba3f60d,far.insure,available,9.99,,high,low,3,name.com,,,
 500e27e3-87d8-477c-919a-e9d8ca12abbd,coverart.insure,available,9.99,,high,low,9,name.com,,,
 4aeb959f-383a-428c-bc5a-9501bd3cd990,exercising.insure,available,9.99,,high,low,10,name.com,,,
@@ -274,7 +274,7 @@ a98a9aff-6fa2-4fbf-90a5-34a01e41af56,disciple.insure,available,9.99,94.99,medium
 2cd89c37-f3de-4ce3-89c9-1124bdfed247,ridiculous.insure,available,9.99,94.99,medium,low,10,name.com,,,
 bc9076cd-94f8-49b6-a9ee-373ccec68e53,acroscopic.insure,available,9.99,94.99,low,low,10,name.com,,,
 ede63313-8fac-4aee-af70-6e6111bc8b0a,badness.insure,available,9.99,94.99,low,low,7,name.com,,,08/08/2026 07:23
-0904ef83-bdb7-4d6d-80ce-4367c75d6fab,Liam.insure,available,9.99,,high,low,4,name.com,,,
+0904ef83-bdb7-4d6d-80ce-4367c75d6fab,liam.insure,available,9.99,,high,low,4,name.com,,,
 a9e6e4c4-5702-44f6-a760-bf0848603ee5,condensedmilk.insure,available,9.99,,high,low,14,name.com,,,
 7d242cab-720c-497c-8cd4-3ae7b8813252,biggovernment.insure,available,9.99,,medium,low,14,name.com,,,
 711325bd-ac24-4795-b55b-de94192563a1,alot.insure,available,9.99,,high,low,5,name.com,,,
@@ -301,17 +301,17 @@ cacd39a7-47ab-456f-b055-d5dd70eceedf,tried.insure,available,9.99,,high,low,5,nam
 c8ad0930-4db6-4677-ad20-c9df9ecfeac9,hover.insure,available,9.99,,medium,low,5,name.com,,,
 d69b621d-6b7f-4410-9c83-7658f30920e0,owing.insure,available,9.99,,low,low,5,name.com,,,
 90ba0559-0e88-4d9b-8468-1b775ea05c97,irrelevant.insure,available,9.99,,medium,low,10,name.com,,,
-2dc7edc7-7a76-4d87-b1d8-36a2e111f69b,large.insure,available,72.99,72.99,medium,low,5,namesilo,,,15/09/2026 03:10
+2dc7edc7-7a76-4d87-b1d8-36a2e111f69b,large.insure,available,72.99,72.99,medium,low,5,namesilo,,,19/09/2026 10:18
 b8a9e3c7-0cbf-4eb3-ad05-491ee2362e59,amiss.insure,available,9.99,94.99,low,low,5,name.com,,,
 90b1831e-622d-4b97-89c6-2e5edb73056f,anoxic.insure,available,9.99,94.99,low,low,6,name.com,,,
 b8b750f5-7b4e-40d8-86e9-827640bdc2ad,sunset.insure,available,9.99,,high,low,6,name.com,,,
 6253e287-3fc8-4a2a-a64c-647a408579ad,apian.insure,available,9.99,94.99,low,low,5,name.com,,,05/08/2026 23:47
-30ba6573-7e3f-4f9b-803b-64ca748077b7,Spotify.insure,available,,,high,low,7,,,,
+30ba6573-7e3f-4f9b-803b-64ca748077b7,spotify.insure,available,,,high,low,7,,,,
 8679c56c-c96b-47c8-97e0-5caffe630178,simplicity.insure,available,9.99,,high,low,10,name.com,,,
 d7a4b8f1-dd5e-4fce-8258-23c027ab277a,alto.insure,available,9.99,94.99,low,low,4,name.com,,,
 17933588-d463-4d5c-be8f-ca19ac99db2e,allometric.insure,available,9.99,94.99,low,low,10,name.com,,,
 230f3760-499c-482f-a31f-0d9c1985b0a2,accustomed.insure,available,9.99,94.99,high,low,10,name.com,,,
-635f2262-d021-4dd3-aa62-f7555e483ef0,Christmascard.insure,available,9.99,,high,low,14,name.com,,,
+635f2262-d021-4dd3-aa62-f7555e483ef0,christmascard.insure,available,9.99,,high,low,14,name.com,,,
 3aa76785-7eb2-47cb-abb0-fc347e1b90c9,articulate.insure,available,9.99,,high,low,10,name.com,,,
 a9b113f8-3831-44a1-a202-1bdca06a3f27,somewhat.insure,available,9.99,,high,low,8,name.com,,,
 9d6e0376-3b03-4700-a93a-23591dce935e,howmany.insure,available,9.99,,medium,low,8,name.com,,,
@@ -338,7 +338,7 @@ ebe98417-59f2-4701-8b1a-7d342422468b,shape.insure,available,9.99,,high,low,5,nam
 1d694216-c777-4203-8453-e30024fd353f,respiratory.insure,available,9.99,,low,low,11,name.com,,,
 930dd4d3-c19b-4d07-81f0-dda3c2b7c973,gothedistance.insure,available,9.99,,high,low,15,name.com,,,
 46d2b9bb-4f70-4574-b076-4f0fcb13dfc5,draw.insure,available,9.99,,high,low,4,name.com,,,
-4df5dcfd-f909-4545-9eb8-44468f4cdfa7,Trumpian.insure,available,9.99,,high,low,8,name.com,,,
+4df5dcfd-f909-4545-9eb8-44468f4cdfa7,trumpian.insure,available,9.99,,high,low,8,name.com,,,
 409f3ef1-67c8-4048-a6f1-7474a445b979,fortyfour.insure,available,9.99,94.99,low,low,10,name.com,,,
 372f8f75-e5b0-4430-874a-4cdb30344dd5,illness.insure,available,9.99,,medium,low,7,name.com,,,
 b03227d2-4fb1-4d08-9ceb-60f141b5267b,achy.insure,available,9.99,94.99,low,low,4,name.com,,,
@@ -361,9 +361,8 @@ eacc884a-7b71-4340-8f71-386d145070f4,bash.insure,available,9.99,,high,low,4,name
 c0cbdd0e-8bcf-484f-8f20-fadca5e1ff89,pete.insure,available,9.99,,high,low,4,name.com,,,
 e1cbc4e7-d08f-4105-b03a-0ec392352d7d,drippy.insure,available,9.99,94.99,low,low,6,name.com,,,09/08/2026 00:32
 caebf097-62fc-48bb-b338-77ed0fd19193,zero.insure,available,9.99,94.99,high,medium,4,name.com,,,
-4873b781-6bcc-4644-9429-82f6851c12a0,restrict.insure,available,72.99,72.99,low,low,8,namesilo,,,14/09/2026 04:21
+4873b781-6bcc-4644-9429-82f6851c12a0,restrict.insure,available,72.99,72.99,low,low,8,namesilo,,,19/09/2026 17:10
 55def678-56f7-4128-945b-9fd9c6263bbf,aeschylean.insure,available,9.99,94.99,low,low,10,name.com,,,
-2988e14f-ecbd-42ea-8d43-8563edf8a505,Nutella.insure,available,,,high,low,7,,,,
 5ec51a1e-6e8e-456e-bf78-701915bf19ae,acceptive.insure,available,9.99,94.99,low,low,9,name.com,,,
 92d475ab-ebcd-45c8-b0df-3bd5d6c634d4,cxlv.insure,available,9.99,94.99,low,low,4,name.com,,,
 c6a03973-f67f-4fab-8e53-606263936465,spry.insure,available,9.99,94.99,low,low,4,name.com,,,
@@ -395,7 +394,7 @@ b6c257d5-0ac6-4125-b32c-b2e3455cef63,too.insure,available,9.99,,high,low,3,name.
 91be9f54-d720-425f-8699-58349d8859ec,provisions.insure,available,72.99,72.99,medium,low,10,namesilo,,,08/09/2026 08:15
 8a0d32b8-4f8a-4aea-917e-820260c13f23,subjects.insure,available,9.99,,low,low,8,name.com,,,
 e71e4a82-feff-4964-9cfb-c6a5989da573,heckno.insure,available,9.99,,high,low,7,name.com,,,
-b915e452-3e7a-4f7c-b5eb-e858cdc1b9d4,WestHill.insure,available,9.99,,low,low,9,name.com,,,
+b915e452-3e7a-4f7c-b5eb-e858cdc1b9d4,westhill.insure,available,9.99,,low,low,9,name.com,,,
 994bf2fc-be56-4cfb-a258-e5ba3d661e5a,wrecked.insure,available,9.99,,medium,low,7,name.com,,,
 5cf719b2-9b38-42ef-ad17-c9624b3109b9,uncomfortably.insure,available,9.99,,medium,low,13,name.com,,,
 170184ef-0a3c-4b11-9ebb-21c277692f27,britain.insure,available,9.99,,high,low,7,name.com,,,
@@ -436,7 +435,7 @@ bb0dc107-cd98-4428-a8ad-1ecf3e87aa26,city.insure,premium,78.54,78.54,high,medium
 878e7615-814f-4447-a6e3-337877686155,branch.insure,available,9.99,,medium,low,6,name.com,,,
 920e8cdb-4761-41e8-80e4-4a758c33764d,yeah.insure,available,9.99,,high,low,4,name.com,,,
 a2018b1a-f2df-4d59-9313-32c511ca2d60,canadian.insure,premium,9.99,,high,low,8,name.com,,,
-570a79d4-3fb6-492b-b101-fb4b554a76b9,USdollar.insure,available,9.99,,high,low,9,name.com,,,
+570a79d4-3fb6-492b-b101-fb4b554a76b9,usdollar.insure,available,9.99,,high,low,9,name.com,,,
 82d9dfd5-c053-4aa9-8603-ee75c7261d32,adequate.insure,available,9.99,94.99,high,low,8,name.com,,,
 842747d7-33e2-437d-84a5-131db1980404,destined.insure,available,9.99,94.99,high,low,8,name.com,,,
 b7198db0-c000-40ba-bc2d-492d88c4f313,hill.insure,available,9.99,,medium,low,4,name.com,,,
@@ -475,15 +474,14 @@ c09971db-b66f-4534-88dd-c15bcea496b7,agog.insure,available,9.99,94.99,low,low,4,
 c87b222e-ebc4-4f1e-901f-1e3279fe98b5,ternion.insure,available,9.99,94.99,low,low,7,name.com,,,
 45b062a1-69a8-4482-a905-29cd84082c40,audible.insure,available,,,high,high,7,,,,
 c9418d28-a063-47cd-b27a-c995f155de96,portable.insure,available,9.99,,high,low,8,name.com,,,
-90c7053c-923a-4c2e-a7e5-68d33cb43954,Snapchat.insure,available,9.99,,high,low,8,name.com,,,
-6db772ec-0f36-4bdc-81c6-9b54c1313dbb,panel.insure,available,72.99,72.99,medium,low,5,namesilo,,,14/09/2026 02:59
+90c7053c-923a-4c2e-a7e5-68d33cb43954,snapchat.insure,available,9.99,,high,low,8,name.com,,,
+6db772ec-0f36-4bdc-81c6-9b54c1313dbb,panel.insure,available,72.99,72.99,low,low,5,namesilo,,,19/09/2026 11:40
 b7c53be9-5bb6-46b2-bf27-b63ddd793f3f,act.insure,available,9.99,,high,low,3,name.com,,,
 a734be03-747e-497f-a255-62d20cbc41e8,aroused.insure,available,9.99,94.99,low,low,7,name.com,,,
 c3500d10-8f71-4277-a4d9-bda579a5b692,jail.insure,available,9.99,,high,low,4,name.com,,,
 11747a5e-83f0-4336-8d07-0e8b782c8004,mouthtomouth.insure,available,9.99,,low,low,14,name.com,,,
 e50f43d2-cee4-4d2f-9620-aa882609340e,needle.insure,available,9.99,,medium,low,6,name.com,,,
 13cbeeac-e5d8-4542-94db-563abc58d2af,grandniece.insure,available,9.99,,high,low,10,name.com,,,
-640d6d29-3734-4573-a9b9-a14c9132412a,dot.insure,resell,,,high,medium,3,Porkbun LLC,08/06/2021 14:43,08/06/2026 14:43,
 4efa8799-d952-4567-a61d-94d401348e3d,showaleg.insure,available,9.99,,low,low,10,name.com,,,
 455285d1-b2e2-4122-a6c0-2e6e08a691e1,praise.insure,available,9.99,,high,low,6,name.com,,,
 87a602c6-ee79-427a-b550-699005899296,willingness.insure,available,9.99,,medium,low,11,name.com,,,
@@ -534,7 +532,7 @@ a74c12ca-810a-4bc4-a7b7-9ea47dc8a325,moderation.insure,available,9.99,,high,low,
 0d2c2b3b-298a-4955-8d9d-da28c38eafce,pancreas.insure,available,9.99,,medium,low,8,name.com,,,
 fc7e610c-12f7-46d8-91b0-4aa663fefc66,massage.insure,available,9.99,,high,low,7,name.com,,,
 542d9eec-dcae-40f6-869d-1dc18f2313ab,adverbial.insure,available,9.99,94.99,low,low,9,name.com,,,
-8abbe40b-b6dd-452a-855e-44813c0afd2e,Netflix.insure,available,,,high,low,7,,,,
+8abbe40b-b6dd-452a-855e-44813c0afd2e,netflix.insure,available,,,high,low,7,,,,
 41f7b603-83a6-42e3-a3f9-353a980e8154,holdoff.insure,available,9.99,,medium,low,8,name.com,,,
 00c26ced-12a3-40be-ad7e-db74bea6efc4,xoxoxo.insure,available,9.99,,high,low,6,name.com,,,
 e29361a6-4e91-4d26-b44e-db845130c00f,pamper.insure,available,9.99,,high,low,6,name.com,,,
@@ -561,7 +559,7 @@ dbd284c0-96fa-41e2-a49f-8cbbf6164666,urgent.insure,available,9.99,,medium,low,6,
 85c66995-8522-4104-a60d-556eba4e0c6e,stewart.insure,available,9.99,,medium,low,7,name.com,,,
 51b86128-220e-46da-8a57-5203f7e5db72,sandwich.insure,available,9.99,,high,low,8,name.com,,,
 f26e6ee1-a7bb-4778-942c-702d03ba1870,bust.insure,available,9.99,,high,low,4,name.com,,,
-a749a951-cf93-48d5-9b73-c158119b40e3,Fingers.insure,available,9.99,,medium,low,7,name.com,,,
+a749a951-cf93-48d5-9b73-c158119b40e3,fingers.insure,available,9.99,,medium,low,7,name.com,,,
 299b26a7-b0fc-4222-b478-23a6428e8c0a,waste.insure,resell,,,high,low,5,"GoDaddy.com, LLC",02/12/2014 16:00,02/12/2026 16:00,
 315e85b6-205a-4931-a512-16533c19024b,wearthepants.insure,available,9.99,,low,low,14,name.com,,,
 53e121bd-22b0-4ab1-af56-cf5bcd075e7a,yearbook.insure,available,9.99,,high,low,8,name.com,,,
@@ -578,7 +576,7 @@ faf76d7b-c96f-41b4-83ac-10f43ebc9c7f,grayheaded.insure,available,9.99,,medium,lo
 f6869f04-8e62-45ab-a006-a1adb98acafe,idea.insure,available,,,high,low,4,,,,
 726e4edd-9a3f-42d7-9a1b-c28ea7eec7f4,overhang.insure,available,9.99,94.99,low,low,8,name.com,,,09/08/2026 08:28
 39c1123f-fbf1-4e3b-8566-1a1e00fa3051,youknowwhat.insure,available,9.99,,low,low,13,name.com,,,
-03076c71-21d6-4430-9a1e-f94a1de5d635,Ithinkso.insure,available,9.99,,medium,low,10,name.com,,,
+03076c71-21d6-4430-9a1e-f94a1de5d635,ithinkso.insure,available,9.99,,medium,low,10,name.com,,,
 18758e33-f693-4e19-8462-876baea47cf3,atbottom.insure,available,9.99,,medium,low,9,name.com,,,
 b6fac8ac-1517-426d-80ef-76d934fd4376,biological.insure,available,9.99,,high,low,10,name.com,,,
 f61c2f1a-0cdc-4b8d-bca1-4ef8daa5d949,denial.insure,available,9.99,,high,low,6,name.com,,,
@@ -601,16 +599,16 @@ ed46c830-bd9f-4ff4-9228-397d7baeca30,mostly.insure,available,9.99,,medium,low,6,
 487b7388-43b2-422a-8c1b-73b3267a4b75,alveolar.insure,available,9.99,94.99,high,low,8,name.com,,,
 adb23d29-e06b-46a6-8ecb-4b30bcf5affc,rightatrium.insure,available,9.99,,low,low,12,name.com,,,
 f58afb3c-62ea-44c9-8a43-faae355c3be0,anniversary.insure,available,9.99,,high,low,11,name.com,,,
-409c2d79-328c-49e7-b90e-acb29dad65b7,ROTFL.insure,available,9.99,,low,low,5,name.com,,,
+409c2d79-328c-49e7-b90e-acb29dad65b7,rotfl.insure,available,9.99,,low,low,5,name.com,,,
 4cf70659-5ed4-4bcb-9bba-a75fc351cf55,awfully.insure,available,9.99,,medium,low,7,name.com,,,
 34db8f3f-ce8f-49ad-82f9-6f4b4925a27a,guts.insure,available,9.99,,high,low,4,name.com,,,
 5ef0d073-74c0-4041-ad51-f6ce80b3a897,tel.insure,premium,500,,medium,low,3,name.com,,,
 8ebdff0b-34ef-40a1-8c1b-1e9b8c5bd222,hardworking.insure,available,9.99,,high,low,11,name.com,,,
 4f962343-9a62-488a-ae18-aa1e29ed61cf,attended.insure,available,9.99,,medium,low,8,name.com,,,
-618076fe-c8f6-4173-8fab-05811523c153,Sony.insure,available,,,high,low,4,,,,
+618076fe-c8f6-4173-8fab-05811523c153,sony.insure,available,,,high,low,4,,,,
 89822551-9e5f-420b-b77d-86e92376d0b3,annalistic.insure,available,9.99,94.99,low,low,10,name.com,,,
 7e3cd9eb-0beb-40fb-85ec-ac4f58653824,vexation.insure,available,9.99,94.99,low,low,8,name.com,,,
-9aa66c42-fe48-4fde-980d-da574e9596a6,cinema.insure,available,72.99,72.99,medium,low,6,namesilo,,,15/09/2026 01:03
+9aa66c42-fe48-4fde-980d-da574e9596a6,cinema.insure,available,76.98,91.98,medium,low,6,namecheap,,,19/09/2026 09:58
 aaa35e96-e51e-4e2e-9c1a-e88929b271cc,dreamup.insure,available,9.99,,high,low,8,name.com,,,
 69268b62-524f-49c9-8660-f0d641b84882,acceptable.insure,available,9.99,94.99,high,low,10,name.com,,,
 ddf209f8-0b27-4f76-841e-6bbcf3ee4749,blow.insure,available,9.99,,medium,low,4,name.com,,,
@@ -649,7 +647,7 @@ e770b8f3-a150-49d3-a578-34de419611da,educational.insure,available,9.99,,high,low
 4004bf81-e624-4e2a-82e9-7482e3a4d2bb,seedy.insure,available,9.99,94.99,low,low,5,name.com,,,
 c1fa4097-c5a1-4b56-ad28-e02d323558e7,available.insure,available,9.99,,high,low,9,name.com,,,
 5853b516-6924-4f97-b1b0-b5f03880d51e,infact.insure,available,9.99,,high,low,7,name.com,,,
-0be2c9d6-28fd-40d2-acc4-8a643ef0a5b0,Ilikethat.insure,available,9.99,,medium,low,11,name.com,,,
+0be2c9d6-28fd-40d2-acc4-8a643ef0a5b0,ilikethat.insure,available,9.99,,medium,low,11,name.com,,,
 a35ae2aa-d775-419c-9834-2cf92112904b,sixtyone.insure,available,9.99,94.99,low,low,9,name.com,,,
 b0332b90-2938-4db8-a8d6-a2795febeb90,asyoulike.insure,available,9.99,,high,low,11,name.com,,,
 7525a762-bbe8-45f9-a5f4-099236fd8abb,hic.insure,available,9.99,,high,low,3,name.com,,,
@@ -657,11 +655,11 @@ b0332b90-2938-4db8-a8d6-a2795febeb90,asyoulike.insure,available,9.99,,high,low,1
 41570624-951f-4dce-8fca-9bce3d3fe202,quilting.insure,available,9.99,,high,low,8,name.com,,,
 cb979840-3801-4613-b74e-e739e4279712,patriotism.insure,available,9.99,,high,low,10,name.com,,,
 a930f85a-d926-4c21-983b-fcd92ff91b28,wishful.insure,available,9.99,94.99,low,low,7,name.com,,,07/08/2026 05:07
-a7321bfb-b5f3-4566-84ff-8b172c42de46,RGB.insure,available,9.99,,medium,low,3,name.com,,,
+a7321bfb-b5f3-4566-84ff-8b172c42de46,rgb.insure,available,9.99,,medium,low,3,name.com,,,
 a015f27a-11e5-4ff1-bee6-c9966eb9fea6,arthistory.insure,available,9.99,,high,low,11,name.com,,,
 2df5bc71-4298-4964-bfb6-a088427e0abe,audile.insure,available,9.99,94.99,low,low,6,name.com,,,07/08/2026 16:40
 e465917c-676f-4569-a910-718416a52ced,yearround.insure,available,9.99,,high,low,10,name.com,,,
-fea090da-2bdf-4556-b59e-483056a5a593,Hans.insure,available,9.99,,high,low,4,name.com,,,
+fea090da-2bdf-4556-b59e-483056a5a593,hans.insure,available,9.99,,high,low,4,name.com,,,
 730b6578-ffdc-450c-815a-b82fe764f352,lookto.insure,available,9.99,,high,low,7,name.com,,,
 44e91a1f-732a-4ca8-895b-2b2e465b287c,globose.insure,available,9.99,94.99,low,low,7,name.com,,,08/08/2026 10:00
 ac8db5c0-f907-45d6-b1c2-d2e4f7bd8d7d,xciv.insure,available,9.99,94.99,low,low,4,name.com,,,
@@ -683,7 +681,7 @@ d9c29682-1c6e-4db8-9280-44fa5096dd90,antioxidant.insure,available,9.99,,high,low
 48ad1a55-1a68-432b-b48c-2a1ed1a80f05,effective.insure,available,9.99,94.99,high,low,9,name.com,,,
 6d31bd23-bf9c-40af-8fe8-c4bbd5ba7e52,visited.insure,available,9.99,,high,low,7,name.com,,,
 b12bfa68-e99c-4a97-8c18-923c49a206cd,lyric.insure,available,9.99,,medium,low,5,name.com,,,
-a567efca-46fd-4ca2-bcf0-046e455ae0ea,SouthKorea.insure,available,9.99,,low,low,11,name.com,,,
+a567efca-46fd-4ca2-bcf0-046e455ae0ea,southkorea.insure,available,9.99,,low,low,11,name.com,,,
 e88c86ab-3187-4db2-99c3-dd0043854375,coldrubber.insure,available,9.99,,medium,low,11,name.com,,,
 c846f4bf-d916-42f9-b44c-b03770eb410e,alkaliser.insure,available,9.99,94.99,low,low,9,name.com,,,
 4ce2337e-75e6-472d-b6be-38b1bb46de26,giant.insure,available,9.99,94.99,high,low,5,name.com,,,
@@ -696,7 +694,7 @@ e419c8b4-c7c7-4d7f-a5bc-c71d41b19f4a,autophytic.insure,available,9.99,94.99,low,
 993594e7-c267-46ce-8aed-757ae9a9a313,hexad.insure,available,9.99,94.99,low,low,5,name.com,,,
 3787dfa4-0d07-4a00-8a18-ab4b3509fa6b,clap.insure,available,9.99,,high,low,4,name.com,,,
 dd53c101-7cfc-4fec-8cd5-93ec89aaa881,qualification.insure,available,9.99,,medium,low,13,name.com,,,
-30b12392-a56d-40e1-8211-fe175d498c3f,NewGuinea.insure,available,9.99,,low,low,10,name.com,,,
+30b12392-a56d-40e1-8211-fe175d498c3f,newguinea.insure,available,9.99,,low,low,10,name.com,,,
 376605ff-0227-4bc0-959a-87dd127a1a46,useless.insure,available,9.99,,medium,low,7,name.com,,,
 c7ab89a8-f7a5-4f65-89a1-edf78e2b764c,televisionprogram.insure,available,9.99,,high,low,18,name.com,,,
 db46f6e6-dc27-4225-874e-d35bf2fe0b7e,compactcamera.insure,available,9.99,,high,low,14,name.com,,,
@@ -733,7 +731,7 @@ e48bcbe1-b610-4aeb-a1fe-78cc9976a675,unadvisable.insure,available,9.99,,medium,l
 bae8a4ff-3990-4f67-a95c-7297564fecf2,clitlicker.insure,available,9.99,,medium,low,10,name.com,,,
 2cf5b9a5-701f-43a4-bc48-a81950b70c23,angular.insure,available,9.99,,high,low,7,name.com,,,
 b7f682f7-ca5a-4ca0-a180-7fedad76ec4e,tedious.insure,available,9.99,,medium,low,7,name.com,,,
-bcd030f8-7378-434d-b9d2-b81e719f0849,WhiteHouse.insure,available,9.99,,medium,low,11,name.com,,,
+bcd030f8-7378-434d-b9d2-b81e719f0849,whitehouse.insure,available,9.99,,medium,low,11,name.com,,,
 0a4d1b2a-5020-42e3-b9b1-82c4789624ee,xix.insure,available,9.99,94.99,high,low,3,name.com,,,
 0c8b7902-cd3d-46f2-8106-450095edea80,letterofreference.insure,available,9.99,,high,low,19,name.com,,,
 469b32e4-b430-47c2-8989-bf606c08d9d7,undergraduate.insure,available,9.99,,high,low,13,name.com,,,
@@ -751,7 +749,7 @@ c90b8498-63e8-4d8f-bc24-c7b079904afa,haveonemoretime.insure,available,9.99,,medi
 6508f3cb-2abe-4c47-99ac-343a60a36599,amebous.insure,available,9.99,94.99,low,low,7,name.com,,,
 59a1084f-3b8b-4d32-b647-b17a542dd385,ancillary.insure,available,9.99,94.99,low,low,9,name.com,,,
 2df59bf0-c4b8-4039-8530-d5c7b0460e8e,diminishing.insure,available,9.99,,high,low,11,name.com,,,
-b340ecf0-2735-447d-bd5d-802f511127a7,office.insure,premium,78.54,78.54,medium,medium,6,namesilo,,,08/09/2026 03:46
+b340ecf0-2735-447d-bd5d-802f511127a7,office.insure,premium,78.54,78.54,medium,low,6,namesilo,,,19/09/2026 07:57
 b833e923-a39c-4c21-a0e4-ca9dbbdee1f6,flyingsaucer.insure,available,9.99,,high,low,13,name.com,,,
 41fe12f0-923b-47d2-b582-4f87898eb007,prose.insure,available,9.99,,medium,low,5,name.com,,,
 93aa556a-26ec-4307-ab21-821494c37e6b,allset.insure,available,9.99,,high,low,7,name.com,,,
@@ -815,7 +813,7 @@ a38928f4-6cd4-4285-820f-bed556696e6e,walkietalkie.insure,available,9.99,,high,lo
 461e7e92-b1cd-4268-ba07-9298665ef078,haiti.insure,available,,,medium,low,5,,,,
 0268605a-f7e4-4d9f-a803-d75e9e4bb4c0,global.insure,premium,500,,high,medium,6,name.com,,,
 190381e3-7af7-46b3-bfa0-a7d545896ec6,include.insure,available,9.99,,high,low,7,name.com,,,
-68d7a0be-cecf-4a42-96dc-5505214cd795,FannyAdams.insure,available,9.99,,medium,low,11,name.com,,,
+68d7a0be-cecf-4a42-96dc-5505214cd795,fannyadams.insure,available,9.99,,medium,low,11,name.com,,,
 01ce70d5-af0e-49bb-aed6-1ab67de70bdc,aramean.insure,available,9.99,94.99,low,low,7,name.com,,,06/08/2026 12:02
 58d36a78-611b-4d56-a930-30edbd7a0286,goodday.insure,available,9.99,,high,low,8,name.com,,,
 c65631e3-69cc-4d83-b62a-b41b97904dc4,elaborated.insure,available,9.99,94.99,medium,low,10,name.com,,,
@@ -837,7 +835,7 @@ aac2f9a0-6be9-43c8-8f3f-580aaa057747,cheerfully.insure,available,9.99,,high,low,
 5938eabf-e813-480d-8893-3d88fd7093b9,mask.insure,available,9.99,,high,low,4,name.com,,,
 6ae8b019-4c3a-4127-9244-377292c34abe,asaconsequenceof.insure,available,9.99,,medium,low,19,name.com,,,
 d70eb7c7-d8c8-4141-b8a4-9d962c94c902,surprise.insure,available,9.99,,high,low,8,name.com,,,
-617ef119-b6e5-436f-8078-481f9efa40be,hot.insure,available,72.99,72.99,medium,medium,3,namesilo,,,12/09/2026 10:33
+617ef119-b6e5-436f-8078-481f9efa40be,hot.insure,available,72.99,72.99,medium,low,3,namesilo,,,19/09/2026 15:25
 f8537d57-e3f6-4856-bfbf-807dd4e423a8,something.insure,available,9.99,,high,low,9,name.com,,,
 dbb35196-721d-47f6-a482-280eed412230,howdo.insure,available,9.99,,medium,low,6,name.com,,,
 c2f843c5-bb61-45d2-ae8c-0bbc49985042,aetiologic.insure,available,9.99,94.99,low,low,10,name.com,,,
@@ -858,7 +856,7 @@ da94a522-7676-435b-b7fc-7d69c2e81240,tipped.insure,available,9.99,94.99,low,low,
 0abfeb12-0d3f-4bd5-9007-233ab59ffa6c,aaa.insure,resell,,,high,medium,3,"GoDaddy.com, LLC",27/09/2019 20:53,27/09/2026 20:53,
 caa72ddf-491c-4550-8b97-a21e78464896,duchess.insure,available,9.99,,high,low,7,name.com,,,
 64f85bc6-db2e-44fd-b752-0b35662e7952,almond.insure,available,9.99,,medium,low,6,name.com,,,
-779ddd34-ba3f-4883-a667-2b113e297548,attainable.insure,available,72.99,72.99,medium,low,10,namesilo,,,15/09/2026 02:33
+779ddd34-ba3f-4883-a667-2b113e297548,attainable.insure,available,76.98,91.98,medium,low,10,namecheap,,,19/09/2026 04:15
 d3de7f02-f420-41ab-9d29-bf419c006a02,standupto.insure,available,9.99,,low,low,11,name.com,,,
 842b8385-32c1-46d4-bdbc-d072bb28c28d,moviefilm.insure,available,9.99,,high,low,10,name.com,,,
 478f4d9b-3721-434f-8acc-f63042d3d979,warfare.insure,available,9.99,,high,low,7,name.com,,,
@@ -875,7 +873,7 @@ efea7afb-81cd-4b9c-9296-728b540c7cd3,mao.insure,available,9.99,,medium,low,3,nam
 3f1491e1-bb5c-44e1-92ae-d794208f55b4,pill.insure,available,9.99,,medium,low,4,name.com,,,
 ba6143a4-b619-4065-a0f3-4ee1dbc6a23b,engine.insure,available,72.99,72.99,medium,low,6,namesilo,,,08/09/2026 12:18
 48fb342a-dd1a-4c2e-81ee-4cfb69ed069e,generators.insure,available,9.99,,medium,low,10,name.com,,,
-f8e8855a-24b6-4b9d-b1b0-5b946f3a29f2,NWO.insure,available,9.99,,medium,low,3,name.com,,,
+f8e8855a-24b6-4b9d-b1b0-5b946f3a29f2,nwo.insure,available,9.99,,medium,low,3,name.com,,,
 94a89ce6-1c41-458f-9ff4-e0a2f6bdc3c1,giveortake.insure,available,9.99,,medium,low,12,name.com,,,
 35ecf0bd-1b15-41cf-928b-ba7ce03022f1,believe.insure,available,9.99,,high,low,7,name.com,,,
 28908f8e-c3eb-4c8a-909c-f49b75fe9d23,regardless.insure,available,9.99,,high,low,10,name.com,,,
@@ -900,7 +898,7 @@ e74c5a1a-cd07-4e2b-872a-e4ed2540c0e5,mealdeal.insure,available,9.99,,high,low,9,
 e89a9859-7649-4a46-9864-464b5eeeeb44,gaslighter.insure,available,9.99,,medium,low,11,name.com,,,
 be36e315-1660-4f8a-9d8b-b63a94cf0ed9,conductor.insure,available,9.99,,high,low,9,name.com,,,
 2a19b077-8071-47cb-8b7b-27a189f8dbc1,hey.insure,available,9.99,,medium,medium,3,name.com,,,
-abf9aeca-698b-4a68-b54a-a9485742bd5e,physically.insure,available,9.99,94.99,low,low,10,name.com,,,12/09/2026 03:48
+abf9aeca-698b-4a68-b54a-a9485742bd5e,physically.insure,available,76.98,91.98,low,low,10,namecheap,,,19/09/2026 14:53
 d5e90a4b-feb1-4076-b97d-31d0d16d0edd,that.insure,available,9.99,,high,low,4,name.com,,,
 d844b8e9-d126-42d7-a0a9-accfdc13695e,respond.insure,available,9.99,,high,low,7,name.com,,,
 17bb502a-9ea4-4935-80b3-42b2a5674fd7,earned.insure,available,9.99,94.99,high,low,6,name.com,,,
@@ -924,15 +922,15 @@ b7c7ee80-32f4-4077-ac38-284172f7b854,supporter.insure,available,9.99,,medium,low
 cddf9655-764d-4b3c-a243-0e67f53161db,somekinda.insure,available,9.99,,medium,low,10,name.com,,,
 e40e0621-42b1-486c-be5b-60803ecf24ce,grandjury.insure,available,9.99,,medium,low,10,name.com,,,
 1227e72a-1f04-4e0d-8cb4-81d0b79b28fc,shiftabout.insure,available,9.99,,low,low,11,name.com,,,
-b6196f26-1b16-43b4-9071-d4fba9a5bdc8,sent.insure,available,72.99,72.99,medium,low,4,namesilo,,,13/09/2026 03:19
+b6196f26-1b16-43b4-9071-d4fba9a5bdc8,sent.insure,available,72.99,72.99,low,low,4,namesilo,,,19/09/2026 16:10
 308171f4-8c00-4ede-a5df-2c54d89d5311,youngboy.insure,available,9.99,,high,low,9,name.com,,,
 c3a5e929-9100-4856-9c9c-7075b1a38af0,attorneygeneral.insure,available,9.99,,medium,low,16,name.com,,,
 fb7f9c9c-6b2b-44cf-b03f-038728b4ce90,going.insure,available,9.99,,high,low,5,name.com,,,
 e6ddf30e-6c3c-42ee-98b4-c6adc6be8849,asyndetic.insure,available,9.99,94.99,low,low,9,name.com,,,07/08/2026 10:34
 fa2529ca-4c82-4e12-88cc-202b8f6777dd,meaningful.insure,available,9.99,,high,low,10,name.com,,,
 764006fc-b19a-4bdd-9c00-d7608bc17f16,worn.insure,available,9.99,,medium,low,4,name.com,,,
-09082e65-3799-4b39-a00a-2fb11ff77d93,engineering.insure,available,72.99,72.99,medium,low,11,namesilo,,,08/09/2026 14:58
-818e7bbf-22f4-4b72-8f56-8b6425986128,buffet.insure,available,72.99,72.99,medium,low,6,namesilo,,,14/09/2026 03:26
+09082e65-3799-4b39-a00a-2fb11ff77d93,engineering.insure,available,72.99,72.99,medium,low,11,namesilo,,,19/09/2026 11:00
+818e7bbf-22f4-4b72-8f56-8b6425986128,buffet.insure,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 17:05
 3c7e7f1b-69d1-4bf6-a8de-4fc2a98031c7,lastminute.insure,available,9.99,,medium,low,11,name.com,,,
 d6662818-8e62-4454-91a5-a4475ec50965,asthedayislong.insure,available,9.99,,medium,low,18,name.com,,,
 e4461e69-e1cc-498d-b77e-2779920dd13c,autoerotic.insure,available,9.99,94.99,low,low,10,name.com,,,07/08/2026 20:01
@@ -945,7 +943,7 @@ dddc3c46-d643-485f-8e40-ac2856cb375d,goforthegold.insure,available,9.99,,high,lo
 4bca66bf-2380-478b-8f40-78615ad0dc4b,prolific.insure,available,9.99,,high,low,8,name.com,,,
 71c08034-ebcd-4a97-8c79-7b2100cc0dcf,cute.insure,available,9.99,94.99,high,low,4,name.com,,,
 84ad1707-20fb-40ff-a8da-4c05376dc7bd,bones.insure,available,9.99,,medium,low,5,name.com,,,
-9b83ecb7-d5f2-45cd-b3da-da0f1b0dc9d3,veggie.insure,available,76.98,91.98,medium,low,6,namecheap,,,13/09/2026 19:20
+9b83ecb7-d5f2-45cd-b3da-da0f1b0dc9d3,veggie.insure,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 06:34
 3e8af8f9-613f-4052-9cd5-9dd1f3382681,showoff.insure,available,9.99,,medium,low,8,name.com,,,
 bb6ac6ab-acde-4f84-abeb-6769e246cee8,setose.insure,available,9.99,94.99,low,low,6,name.com,,,08/08/2026 17:39
 43bf308b-a8eb-4ef3-ac61-845adb86e362,moderator.insure,available,9.99,,high,low,9,name.com,,,
@@ -954,14 +952,14 @@ cb33c088-e0a5-4f5c-a9e0-97efd414301d,princess.insure,available,9.99,,high,low,8,
 21910c6b-42f4-4210-895b-94a66298d59e,neighbour.insure,available,9.99,,high,low,9,name.com,,,
 f68f8d5e-f720-4719-8d21-37f7b40d935e,opportunityroom.insure,available,9.99,,high,low,16,name.com,,,
 981bf81a-7748-452a-b04a-f1589a004cb3,bordered.insure,available,9.99,,medium,low,8,name.com,,,
-55476eea-bb22-46e0-b35c-c37224ab1136,Englishmedium.insure,available,9.99,,medium,low,14,name.com,,,
+55476eea-bb22-46e0-b35c-c37224ab1136,englishmedium.insure,available,9.99,,medium,low,14,name.com,,,
 e3def635-f258-445c-915c-2b170bf8c355,fortysix.insure,available,9.99,94.99,low,low,9,name.com,,,
 cf3e362a-1aa4-4480-b486-567ad687dc8c,septet.insure,available,9.99,94.99,low,low,6,name.com,,,
 a71e9270-b137-4079-8c97-9be530de0c1a,prohibited.insure,available,9.99,94.99,low,low,10,name.com,,,08/08/2026 13:48
 770df1b6-06ec-4475-9c7e-84e78b9a9496,formless.insure,available,9.99,94.99,low,low,8,name.com,,,
 9eaa39ac-902b-4657-abc4-70fd243f2b2b,monthly.insure,available,9.99,,high,low,7,name.com,,,
 8fd61159-cbfc-4721-b608-728e004c8761,noticeable.insure,available,9.99,94.99,medium,low,10,name.com,,,
-d1a84406-e658-465d-aa2d-593d4adacd57,arts.insure,available,9.99,94.99,medium,low,4,name.com,,,15/09/2026 05:49
+d1a84406-e658-465d-aa2d-593d4adacd57,arts.insure,available,72.99,72.99,medium,low,4,namesilo,,,19/09/2026 04:18
 c3599d65-1285-43d3-b6cd-8b0dd70d9b7f,put.insure,available,9.99,,high,low,3,name.com,,,
 7a67caef-9713-4d30-bd79-76a173675ee3,lazuline.insure,available,9.99,94.99,low,low,8,name.com,,,08/08/2026 03:18
 8edf419c-ee68-4866-9d8d-fdb97689cb2b,economically.insure,available,9.99,,medium,low,12,name.com,,,
@@ -978,13 +976,13 @@ fe4686ac-44f4-49b4-ab89-e7c31c97ceea,veal.insure,available,9.99,,medium,low,4,na
 aa59c686-c81e-4f52-af6a-814f53c3b2c8,upstage.insure,available,9.99,94.99,low,low,7,name.com,,,
 5f38030c-4d5a-4179-84ae-2dc0f405fe26,bootleg.insure,available,9.99,,high,low,7,name.com,,,
 8fc9b9a1-a03e-409c-aee6-06bb34036aec,occur.insure,available,9.99,,high,low,5,name.com,,,
-dd1dd4cb-53b8-42c8-b96e-fdca3e3a46ad,Crayola.insure,available,,,high,low,7,,,,
+dd1dd4cb-53b8-42c8-b96e-fdca3e3a46ad,crayola.insure,available,,,high,low,7,,,,
 7f3e48a1-3629-4971-9831-f25958ac841e,front.insure,available,9.99,,high,low,5,name.com,,,
 3353c035-e7c2-4cda-af13-4455338fc6bb,childpornography.insure,available,9.99,,medium,low,17,name.com,,,
-911caaeb-d65b-4a70-a0e2-dc39a88f6491,rich.insure,available,72.99,72.99,medium,low,4,namesilo,,,15/09/2026 04:16
+911caaeb-d65b-4a70-a0e2-dc39a88f6491,rich.insure,available,76.98,91.98,low,low,4,namecheap,,,19/09/2026 18:40
 69311e0a-0e90-4bc8-841d-62756802f50d,justification.insure,available,9.99,,medium,low,13,name.com,,,
 cf86f5d9-6225-4f2b-a609-6ada75049bc6,abstruse.insure,available,9.99,94.99,low,low,8,name.com,,,
-1ea01e2b-58bc-4d64-b8b4-e47403e02f4e,Westcott.insure,available,9.99,,low,low,8,name.com,,,
+1ea01e2b-58bc-4d64-b8b4-e47403e02f4e,westcott.insure,available,9.99,,low,low,8,name.com,,,
 167345f2-d9fe-436e-a27d-798364d3683f,windsor.insure,available,9.99,,medium,low,7,name.com,,,
 9c591448-11c8-4509-bfd2-fbf80f4b5ee0,recently.insure,available,9.99,,medium,low,8,name.com,,,
 9d333c87-851d-446b-9b93-b14b7267dc57,teasing.insure,available,9.99,,high,low,7,name.com,,,
@@ -999,3 +997,5 @@ eb55091d-fbc5-4205-9cd1-de0eb71bafc7,humongous.insure,available,9.99,94.99,low,l
 a11e65a0-9e7a-4fa6-88b5-0c3d4fcb99d3,ablaze.insure,available,9.99,94.99,low,low,6,name.com,,,
 5d8d7202-6672-4835-b875-fead26e6d3af,commit.insure,available,9.99,,high,low,6,name.com,,,
 279caf03-c635-4d17-8f02-c12453984686,lobby.insure,available,9.99,,high,low,5,name.com,,,
+7857cf04-a256-4086-9a35-e036b2fe3d82,fellowcitizen.insure,available,9.99,,medium,low,14,name.com,,,
+7a52e904-cf40-4d0a-b5d2-861ed772d74c,bastardly.insure,available,9.99,94.99,low,low,9,name.com,,,08/08/2026 23:53
