@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ecf3152-44e0-461f-908d-c679b784d34d,goal.insure,available,72.99,72.99,high,low,4,namesilo,,,27/09/2026 06:59
 3b0f25a2-1ce6-4ba8-bdb2-90a4dc8a24b1,hutchinson.insure,available,72.99,72.99,high,low,10,namesilo,,,19/09/2026 10:20
 04e9aac2-fbb4-40fb-b951-c3ec52382e88,piping.insure,available,72.99,72.99,medium,low,6,namesilo,,,10/09/2026 19:43
+715dfbb3-9b4b-406c-84f7-d09ad372f9c5,chemicals.insure,available,56.2,56.2,medium,low,9,cloudflare,,,28/09/2026 08:24
 3b3b9b10-1a6d-4610-bb4a-6b6eb5c95246,remarks.insure,available,72.99,72.99,medium,low,7,namesilo,,,18/09/2026 03:12
 3dc406f1-93ba-4cb6-9a0f-241dfbc1d5b9,disappointed.insure,available,9.99,,medium,low,12,name.com,,,
 594b4378-0751-4c08-8c77-a3c16b292d3b,rand.insure,available,72.99,72.99,high,low,4,namesilo,,,21/09/2026 10:39
@@ -21,6 +22,7 @@ d35be9f1-d2b4-4884-9bec-2fe2024d2cf3,translating.insure,available,76.98,91.98,me
 98c40bd3-8117-4967-878c-ab75b22591fc,email.insure,available,9.99,,high,medium,6,name.com,,,
 af5192e2-e0be-42e1-a02a-267326c7d916,alcahest.insure,available,72.99,72.99,medium,low,8,namesilo,,,18/09/2026 03:43
 e6ca20f0-bb7b-47e9-880c-761446443290,tyrannical.insure,available,9.99,94.99,medium,low,10,name.com,,,07/08/2026 19:12
+ad0add15-16a4-44de-8430-f2368317e4cd,bryn.insure,available,58.16,58.16,medium,low,4,spaceship,,,28/09/2026 07:45
 ea022c41-b072-4f60-8dbf-93f05267dbb9,acquirable.insure,available,9.99,94.99,medium,low,10,name.com,,,
 b97ef994-420b-4a97-ae9a-477d9a0a9653,roth.insure,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 09:56
 df7dbc4d-befa-406c-aac8-2ecab02725f9,discredit.insure,available,9.99,,high,low,9,name.com,,,
@@ -43,8 +45,10 @@ b1c7bf3e-eaac-473e-b40c-df7f9dc6aa29,glued.insure,available,9.99,94.99,high,low,
 6610f39f-4afb-4d8b-9889-6992f06aa50c,norms.insure,available,9.99,,medium,low,5,name.com,,,
 173f9985-7c08-4a65-87dc-7933d338cd8b,cadastral.insure,available,9.99,94.99,medium,low,9,name.com,,,11/08/2026 12:39
 2af77db6-86e7-47af-847e-6ee9bb4b4772,aubergine.insure,available,72.99,72.99,high,low,9,namesilo,,,21/09/2026 02:33
+717b3051-e14a-4d9f-addb-e4a750fd0972,roland.insure,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 07:46
 b67d2e52-c849-4696-8f93-29839d79746b,berberis.insure,available,9.99,94.99,high,low,8,name.com,,,23/09/2026 09:08
 5b469d15-d357-44ac-9b1a-d97e336529ca,concisely.insure,available,72.99,72.99,medium,low,9,namesilo,,,14/09/2026 08:10
+a2dfba69-9150-4d07-80fc-907c79fceb5e,davison.insure,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 04:10
 596be5e3-4161-4bb6-8120-806cc24902cf,maximising.insure,available,9.99,94.99,medium,low,10,name.com,,,24/08/2026 17:58
 b2cdf92e-1e23-459d-9135-7b85118ff91a,sonant.insure,available,9.99,94.99,medium,low,6,name.com,,,10/09/2026 14:08
 96ade627-06af-4d7d-86b7-8b2f3815f9e0,mystically.insure,available,72.99,72.99,medium,low,10,namesilo,,,15/09/2026 15:58
@@ -140,6 +144,7 @@ f1caa9f7-1647-4534-9281-6da62812b8f0,grimly.insure,available,72.99,72.99,medium,
 f4272520-68b4-45e9-8aa0-9bce72a719a6,fights.insure,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 00:14
 f70e08d3-e9fc-4958-bce8-232d5d7a19b4,ostensive.insure,available,72.99,72.99,medium,low,9,namesilo,,,04/09/2026 18:31
 ddf8b5e3-d1c5-441f-9e65-f3f82cb40c35,improper.insure,available,9.99,94.99,medium,low,8,name.com,,,21/08/2026 23:12
+c40c131f-2054-4374-b5ef-a8097fccb71a,lands.insure,available,58.16,58.16,medium,low,5,spaceship,,,28/09/2026 04:27
 74126fec-4353-4e74-a858-bfe835966afc,scratches.insure,available,9.99,94.99,medium,low,9,name.com,,,
 e4f9c652-4c77-4520-a8a7-d21d3f120873,xxxiii.insure,available,9.99,94.99,medium,low,6,name.com,,,
 b6934a9a-ee20-4f39-9306-3fee20543262,leaning.insure,available,9.99,94.99,high,low,7,name.com,,,07/08/2026 13:24
@@ -155,7 +160,7 @@ acf862a3-46ff-43fa-a195-5c3b1da76895,nasally.insure,available,72.99,72.99,medium
 8544b620-9ba6-47a4-a46f-51c4c2f0a1e6,influent.insure,available,9.99,94.99,high,low,8,name.com,,,22/08/2026 04:36
 c304e5e6-6589-4e24-91dd-529829c1d129,beano.insure,available,76.98,91.98,medium,low,5,namecheap,,,22/09/2026 20:40
 adb3cdbf-6c71-42fc-b434-819d73db764b,sluggish.insure,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 11:29
-b420c374-00ed-4675-beef-92ca148c7eaa,manifest.insure,available,9.99,94.99,high,medium,8,name.com,,,06/08/2026 05:17
+b420c374-00ed-4675-beef-92ca148c7eaa,manifest.insure,available,76.98,91.98,high,medium,8,namecheap,,,28/09/2026 07:45
 5ccd6b6a-5ff5-4de2-a5a3-59d79f7d5dab,onions.insure,available,9.99,,high,low,6,name.com,,,
 4d66118d-0047-4bd9-bb21-fe746b159879,disassemble.insure,available,9.99,,medium,low,11,name.com,,,
 8bb9b673-f5b8-4c09-935a-30c66df3ab6c,employer.insure,available,9.99,,high,low,8,name.com,,,
@@ -169,6 +174,7 @@ c545cbd6-5b68-47a5-ba41-3eaf894b169f,unsugared.insure,available,72.99,72.99,low,
 6e9c77bc-e03a-4d3d-9a25-ec597065cbe0,underclass.insure,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 07:22
 e8cd4332-55b8-4643-a57f-7b4ea547d18a,synoecious.insure,available,72.99,72.99,medium,low,10,namesilo,,,11/09/2026 06:29
 46e1b11e-8b43-4beb-bc4c-289b51e54460,interview.insure,available,9.99,,high,low,9,name.com,,,
+ee0dba3b-2d6f-478c-8b23-38e7146247b0,towel.insure,available,72.99,72.99,high,low,5,namesilo,,,28/09/2026 03:13
 7eccd58a-1fcb-49a9-87d3-66f31caec6d3,alpine.insure,available,,,high,medium,6,,,,
 f0420628-5276-438d-ae66-f74e7cffe926,keynesian.insure,available,9.99,94.99,medium,low,9,name.com,,,22/08/2026 15:46
 1eb17445-bfeb-4e13-b155-74c2d7a7a185,mystic.insure,available,72.99,72.99,high,low,6,namesilo,,,03/09/2026 12:22
@@ -192,6 +198,7 @@ f6b7d6ca-30af-4d9d-b1d2-0414ddde9af7,vivace.insure,available,72.99,72.99,high,lo
 a5b6efa1-787b-4ff4-8dd2-461f40a4a639,goes.insure,available,72.99,72.99,high,low,4,namesilo,,,25/09/2026 16:38
 123fc819-3538-4716-b039-6686290d1bcd,shouts.insure,available,72.99,72.99,medium,low,6,namesilo,,,18/09/2026 07:00
 acfcf38e-2ef3-4e8b-9937-428068eb2a16,sands.insure,available,9.99,94.99,high,low,5,name.com,,,24/08/2026 07:38
+7a5995c5-2789-4238-bdf4-e2bbd85cdb65,canyon.insure,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 05:22
 b2e40b3e-9b85-496d-ac8e-199bf3ec68e1,inhabited.insure,available,9.99,94.99,high,low,9,name.com,,,22/08/2026 04:59
 233969f2-7cfa-4855-9846-5a2e3a6dc928,merciful.insure,available,9.99,94.99,high,low,8,name.com,,,24/08/2026 20:34
 3c449761-9c4c-4991-89c3-6424e173ba96,pigeon.insure,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 02:55
@@ -209,17 +216,21 @@ d4b610fa-c9b7-4032-9eca-34e7b0033f7f,remington.insure,available,9.99,,high,low,9
 d238d33e-fa44-4f72-a325-9cbfcae11c73,reilly.insure,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 02:49
 514af8ce-1adc-480c-893f-d69187abe446,privy.insure,available,72.99,72.99,high,low,5,namesilo,,,09/09/2026 02:12
 8d3a21a7-5eb2-4587-b3f9-d42319dfcea8,haggai.insure,available,72.99,72.99,medium,low,6,namesilo,,,17/09/2026 17:22
+4157fdb9-2048-4a3f-bef4-c23d1cecae8f,roberta.insure,available,58.16,58.16,high,low,7,spaceship,,,28/09/2026 03:52
 f70b0ed8-ae02-480b-a6c6-6331d3116900,confirm.insure,available,76.98,91.98,high,low,7,namecheap,,,27/09/2026 05:57
+38b2dc69-f495-4a95-8449-9d0c769bd599,winchester.insure,available,56.2,56.2,high,low,10,cloudflare,,,28/09/2026 03:16
 02a5af2a-cc6d-4dbc-8cc3-011d8c049e27,apercu.insure,available,72.99,72.99,medium,low,6,namesilo,,,19/09/2026 16:30
 bdfc2273-edb0-4273-a278-00ea2670de89,adoption.insure,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 09:43
 28b91d4b-7b43-4b37-aea7-6ba4dc49f73a,kathryn.insure,available,72.99,72.99,high,low,7,namesilo,,,27/09/2026 07:34
-eae0a715-b7c6-4791-ba06-011ee972bd2b,mouth.insure,available,72.99,72.99,high,low,5,namesilo,,,08/09/2026 03:51
+eae0a715-b7c6-4791-ba06-011ee972bd2b,mouth.insure,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 08:01
 0dd7712a-da6e-4a8e-a17e-8b327d756630,generously.insure,available,9.99,94.99,high,low,10,name.com,,,14/09/2026 21:14
+996fc12d-7885-4acf-88f7-922a432300c8,madame.insure,available,5.57,60.14,high,low,6,dynadot,,,28/09/2026 06:18
 db25d304-90db-4975-8d2f-3bdcd36c58a8,aerodrome.insure,available,72.99,72.99,high,low,9,namesilo,,,17/09/2026 12:58
 780531aa-2a04-4262-8527-9286174fe86f,sorely.insure,available,72.99,72.99,medium,low,6,namesilo,,,16/09/2026 05:13
 a3f99a86-d4ed-4170-b996-05e5889cc964,germans.insure,available,9.99,94.99,medium,low,7,name.com,,,27/09/2026 03:03
 d55c732f-b730-4425-a2cc-b8f939cb2d45,convex.insure,available,9.99,94.99,high,low,6,name.com,,,11/08/2026 08:24
 72d3d882-d2dc-4a2a-bec2-1119a94458aa,downmarket.insure,available,9.99,94.99,medium,low,10,name.com,,,14/08/2026 17:48
+b1811c56-e2d8-4b94-bf04-96b887d8ea8f,intercourse.insure,available,72.99,72.99,high,low,11,namesilo,,,28/09/2026 07:00
 9cf2a3eb-118f-41e5-9e28-145d5a7d042b,nicene.insure,available,72.99,72.99,medium,low,6,namesilo,,,03/09/2026 17:01
 e17d275d-d99b-46b1-b60e-d81537fe7d02,immobile.insure,available,9.99,94.99,medium,low,8,name.com,,,21/08/2026 21:05
 e5aace41-91ab-4abe-937c-1a572b5930f4,sandals.insure,available,76.98,91.98,medium,low,7,namecheap,,,20/09/2026 14:52
@@ -243,6 +254,7 @@ c4ed1064-d988-4d6d-a060-8983ac937ac4,tongan.insure,available,72.99,72.99,high,lo
 f28ecb1f-b402-4d1e-b1e2-718d9f01054c,slain.insure,available,72.99,72.99,medium,low,5,namesilo,,,10/09/2026 09:53
 7adc3c33-5ef9-45fc-b0bc-75c6eccdf01a,dreamy.insure,available,9.99,94.99,high,low,6,name.com,,,14/08/2026 18:48
 69912752-83e3-4113-b0d4-820241587901,continuous.insure,available,72.99,72.99,high,low,10,namesilo,,,23/09/2026 22:20
+476adf5d-a3e4-4fac-9b3a-eccb1588e1cd,acquainted.insure,available,72.99,72.99,high,low,10,namesilo,,,28/09/2026 07:02
 fcaab686-7121-47f2-a2e0-3b8f45b3002d,aggregate.insure,available,9.99,94.99,high,low,9,name.com,,,
 33bac576-6427-4a2f-86bb-aa1e4187cd98,walkabout.insure,available,9.99,,high,low,10,name.com,,,
 a5db729d-1ec8-4c22-acbe-ccaf9a860751,firing.insure,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 03:58
@@ -255,9 +267,9 @@ f18adaf8-405f-4668-b8d7-cc3d58d97566,julian.insure,available,9.99,94.99,high,low
 aaa17baa-7d3c-4822-a003-ae317cd2bcb4,ourselves.insure,available,76.98,91.98,medium,low,9,namecheap,,,27/09/2026 08:55
 bf790fe5-1c4a-4e56-8963-4c9e28c90445,gracie.insure,available,72.99,72.99,high,low,6,namesilo,,,18/09/2026 10:48
 e4f563b4-eb8b-47e7-b698-33f5049316ca,mortgaged.insure,available,9.99,94.99,medium,low,9,name.com,,,25/08/2026 06:38
-37b08691-f26f-4d42-9001-44b885172140,automation.insure,available,76.98,91.98,high,medium,10,namecheap,,,23/09/2026 08:21
+37b08691-f26f-4d42-9001-44b885172140,automation.insure,available,5.57,60.14,high,medium,10,dynadot,,,28/09/2026 03:05
 690cee92-cad2-46c4-bb93-a1c50af3e42a,hanging.insure,available,72.99,72.99,medium,low,7,namesilo,,,25/09/2026 04:41
-0efce1ad-3764-4c69-931e-78da569191c2,reliability.insure,available,9.99,,high,low,11,name.com,,,
+0efce1ad-3764-4c69-931e-78da569191c2,reliability.insure,available,72.99,72.99,high,low,11,namesilo,,,28/09/2026 04:00
 8f8c0988-83df-4011-90a1-4d16dc4533c0,read.insure,available,72.99,72.99,high,medium,4,namesilo,,,26/09/2026 00:08
 8da04b1c-a887-4e98-bcef-703035666c5e,splattered.insure,available,9.99,94.99,medium,low,10,name.com,,,13/08/2026 15:21
 16488e69-f7e5-4536-9f89-5c6cefb06724,impudent.insure,available,9.99,94.99,medium,low,8,name.com,,,18/08/2026 08:23
@@ -278,6 +290,7 @@ a3612eba-88fd-4f54-9efc-29bb2ceb94a2,jitney.insure,available,9.99,94.99,medium,l
 19433fa2-7ad3-408a-8352-879cd14c62b0,robinson.insure,available,56.2,56.2,high,low,8,cloudflare,,,27/09/2026 13:17
 c22c6e30-f86c-46ee-8b1a-9838381d4121,anechoic.insure,available,9.99,94.99,medium,low,8,name.com,,,
 b8d5ce2e-7296-49ea-986d-b7c5bd7d846f,polyhedral.insure,available,72.99,72.99,medium,low,10,namesilo,,,08/09/2026 23:24
+ad3e37ca-3191-4a4c-b340-6fcd3eb0fcb3,publish.insure,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 06:03
 03c449ae-e63e-4844-959b-4802d9279356,cavernous.insure,available,9.99,94.99,medium,low,9,name.com,,,11/08/2026 22:51
 938b67af-3b4c-4d0a-9771-638e9a6af862,immanent.insure,available,9.99,94.99,medium,low,8,name.com,,,21/08/2026 20:50
 9da47c01-398c-42a1-9d9b-865b2d03cda8,hatless.insure,available,9.99,94.99,medium,low,7,name.com,,,21/08/2026 01:20
@@ -290,6 +303,7 @@ b8d5ce2e-7296-49ea-986d-b7c5bd7d846f,polyhedral.insure,available,72.99,72.99,med
 335d1338-b6d2-4c0d-9cea-98e5bb1247ca,gamy.insure,available,9.99,94.99,medium,low,4,name.com,,,18/08/2026 19:55
 d1cda1f3-ac71-414e-bc2a-cdc3274971ad,skinned.insure,available,72.99,72.99,high,low,7,namesilo,,,10/09/2026 09:44
 5843b8fc-4be9-425a-bc83-689869e15598,discipline.insure,available,9.99,94.99,high,low,10,name.com,,,19/09/2026 11:34
+7660d224-1d76-4af2-a5c3-c02abd636da6,ethel.insure,available,58.16,58.16,high,low,5,spaceship,,,28/09/2026 07:21
 8bdf98b4-dcff-4b5e-b4c6-a0186c97337a,oldfield.insure,available,76.98,91.98,medium,low,8,namecheap,,,22/09/2026 06:52
 18258d88-ab8b-408a-b9dc-933be55214a1,bed.insure,available,9.99,,high,low,3,name.com,,,
 ab8f894f-047c-4208-99de-69254e019185,hua.insure,available,72.99,72.99,high,low,3,namesilo,,,18/09/2026 01:18
@@ -314,6 +328,7 @@ ac37455f-0cd5-4535-a090-02c636832591,sessile.insure,available,72.99,72.99,medium
 fe911aec-8726-4802-a54f-1b16469edd89,gusty.insure,available,9.99,94.99,medium,low,5,name.com,,,20/08/2026 21:10
 b9381625-0b49-4d25-ae3d-da6934d1d489,shenandoah.insure,available,58.16,58.16,medium,low,10,spaceship,,,27/09/2026 21:14
 bb6bdf9b-3647-4982-a55a-eadf9c6c747d,sinewy.insure,available,9.99,94.99,medium,low,6,name.com,,,11/08/2026 02:52
+cd042203-f857-4134-b17d-e96172354e65,nguyen.insure,available,58.16,58.16,high,low,6,spaceship,,,28/09/2026 04:48
 24f895fc-0138-4f5d-883c-5b503efdfd24,circuitous.insure,available,9.99,94.99,medium,low,10,name.com,,,12/08/2026 08:18
 dcc0951f-6a8a-4b21-bb13-bc5c57daff78,ajaia.insure,available,72.99,72.99,medium,low,5,namesilo,,,17/09/2026 23:39
 39da1fee-1ad2-4b6e-a029-119da4d2726d,politicians.insure,available,72.99,72.99,medium,low,11,namesilo,,,19/09/2026 23:03
@@ -339,12 +354,14 @@ b648a6ed-d9b9-415f-a08e-1ff88a4b248f,incestuous.insure,available,9.99,94.99,medi
 b0e6f7bc-cdfc-48e3-b44e-378374ab39ae,aweigh.insure,available,9.99,94.99,low,low,6,name.com,,,07/08/2026 14:29
 72b851d3-9563-4905-956b-9296ef542ff8,boarding.insure,available,72.99,72.99,high,low,8,namesilo,,,27/09/2026 11:44
 6583673b-bcce-46f0-86d8-71baadd8dfa7,afterworld.insure,available,76.98,91.98,medium,low,10,namecheap,,,17/09/2026 15:58
+cf2d9e30-7097-4123-b4ba-440166b1f00c,luca.insure,available,56.2,56.2,high,medium,4,cloudflare,,,28/09/2026 07:26
 d8e29558-8429-4a0e-a932-2b875e0f13d5,bonhomie.insure,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 13:57
 a1382247-29b6-4ea3-836e-8962bae23c9d,operable.insure,available,72.99,72.99,medium,low,8,namesilo,,,04/09/2026 16:20
 b13fea84-2854-4380-885a-a422f754fe54,tasked.insure,available,72.99,72.99,medium,low,6,namesilo,,,20/09/2026 17:24
 9cd55751-9165-48a6-be07-5422896adf41,catherine.insure,available,72.99,72.99,high,low,9,namesilo,,,25/09/2026 04:07
 f7897c62-c922-479c-8bbe-8a8117a7b82e,lunchboxes.insure,available,72.99,72.99,medium,low,10,namesilo,,,21/09/2026 09:13
 7e3ff4bc-72ce-43bc-8de1-f102b9202a30,bragger.insure,available,9.99,94.99,medium,low,7,name.com,,,11/08/2026 01:14
+b0169396-a0c8-4c9e-98a0-a0cbdead05d8,andrei.insure,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 04:07
 045adb0b-e4d2-400c-bae5-f4b7315c27b9,salesman.insure,available,72.99,72.99,high,low,8,namesilo,,,27/09/2026 15:44
 cae8c67f-60f0-4e55-acba-5189d78d2fc2,devotions.insure,available,72.99,72.99,medium,low,9,namesilo,,,20/09/2026 02:07
 550f1f07-cdf3-46bb-83fe-fb7f8218421a,salient.insure,available,72.99,72.99,high,low,7,namesilo,,,09/09/2026 03:09
@@ -380,7 +397,7 @@ be5da656-e364-47b5-a4ce-5f6672085ea8,portrait.insure,available,56.2,56.2,high,lo
 18beb8bb-b819-4ff8-89ac-2c2ac4d25231,spend.insure,available,9.99,,high,low,5,name.com,,,
 7f9283d5-96a4-45b6-ba04-1b87f9ab70dc,fee.insure,available,9.99,,high,low,3,name.com,,,
 d56407f3-a9dd-4ad3-b84d-a9e771084628,transports.insure,available,72.99,72.99,medium,low,10,namesilo,,,20/09/2026 13:26
-b3ed3db7-5154-412e-8cc7-1543deddd616,inventory.insure,available,72.99,72.99,high,low,9,namesilo,,,23/09/2026 08:19
+b3ed3db7-5154-412e-8cc7-1543deddd616,inventory.insure,available,5.57,60.14,high,low,9,dynadot,,,28/09/2026 06:22
 bf32edec-d819-4621-b755-e27e3ff4a701,placate.insure,available,9.99,94.99,high,low,7,name.com,,,18/08/2026 22:12
 953b0842-90c2-451a-9bdb-91a7ec4c4b41,navy.insure,available,9.99,,high,low,4,name.com,,,
 76c3a697-9a7a-4f70-977a-35330768b170,elephant.insure,available,72.99,72.99,high,low,8,namesilo,,,25/09/2026 22:36
@@ -451,7 +468,7 @@ d5f023f9-5979-47ce-a73a-7da7a7aacdf8,beech.insure,available,72.99,72.99,high,low
 b864340a-8f6b-4f2f-8303-55d82f139b54,chambered.insure,available,9.99,94.99,medium,low,9,name.com,,,12/08/2026 01:34
 8956ef97-1297-4abc-9904-35c9a2deb824,ostracize.insure,available,72.99,72.99,medium,low,9,namesilo,,,24/09/2026 01:58
 91d832be-32e1-4a77-bbcb-c96238844aa2,apneic.insure,available,9.99,94.99,medium,low,6,name.com,,,06/08/2026 00:40
-07b04f57-b27e-4f99-86fc-d0cd7c0d4c92,neuroscience.insure,available,72.99,72.99,high,low,12,namesilo,,,24/09/2026 07:20
+07b04f57-b27e-4f99-86fc-d0cd7c0d4c92,neuroscience.insure,available,58.16,58.16,high,low,12,spaceship,,,28/09/2026 04:12
 8d985cce-2ed6-4b5e-83ab-a92491ce6751,abruptly.insure,available,9.99,94.99,medium,low,8,name.com,,,13/08/2026 19:17
 36a9f577-763f-4a74-a8f0-d14d19f8d046,hempen.insure,available,9.99,94.99,medium,low,6,name.com,,,18/08/2026 03:20
 24cb8e24-7745-4d19-88c4-eaf64bb744ba,puku.insure,available,72.99,72.99,medium,low,4,namesilo,,,17/09/2026 07:35
@@ -525,7 +542,7 @@ ecef452b-6789-4d15-8229-e534d9a2fbe6,beaten.insure,available,9.99,94.99,medium,l
 3c46d00a-7b6f-44e3-b834-537e31502606,geodetic.insure,available,9.99,94.99,medium,low,8,name.com,,,18/08/2026 22:21
 8093f728-980e-4c74-8fae-eda7d83c6382,slashing.insure,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 10:08
 2f9c5b86-b868-4904-973f-ad9fb55c5aa7,play.insure,available,9.99,,high,medium,4,name.com,,,
-5279622f-7ff1-4209-b8f3-fbd7cd72613b,film.insure,available,72.99,72.99,high,medium,4,namesilo,,,23/09/2026 07:55
+5279622f-7ff1-4209-b8f3-fbd7cd72613b,film.insure,available,58.16,58.16,high,low,4,spaceship,,,28/09/2026 03:29
 a57c735a-572c-4f3b-95c9-7d8a6e0ea705,closest.insure,available,9.99,,high,low,7,name.com,,,
 0d6181f9-2a1e-4e70-86a7-50e8449e569f,wrote.insure,available,9.99,,medium,low,5,name.com,,,
 43307dc1-69d7-4b66-bf97-003478ca2030,choke.insure,available,72.99,72.99,medium,low,5,namesilo,,,24/09/2026 14:43
@@ -543,7 +560,7 @@ e06c44d7-9e75-45d8-9bfa-a2716f6ef136,mason.insure,available,72.99,72.99,high,low
 0bd0db47-f1e6-42c7-9ce4-a00991dec493,circularly.insure,available,72.99,72.99,medium,low,10,namesilo,,,14/09/2026 06:55
 640d3bd1-a52b-49a3-80a9-c9d022112291,openings.insure,available,76.98,91.98,medium,low,8,namecheap,,,20/09/2026 17:50
 9b964d34-151f-498d-ba71-a77e35264069,david.insure,available,9.99,,high,medium,5,name.com,,,
-6110c425-1d4b-492f-98fb-0c8b51232b13,physic.insure,available,9.99,94.99,high,low,6,name.com,,,05/08/2026 22:25
+6110c425-1d4b-492f-98fb-0c8b51232b13,physic.insure,available,72.99,72.99,medium,low,6,namesilo,,,28/09/2026 07:44
 5b5ba805-64fb-4c12-a575-f288ce63d7a3,djiboutian.insure,available,9.99,94.99,medium,low,10,name.com,,,14/08/2026 14:08
 ada8de22-2e0f-4879-a069-18a723f82ff1,campaign.insure,available,9.99,,high,low,8,name.com,,,
 d2d5749a-c20f-413c-ae9e-7aed4ea66913,faecal.insure,available,9.99,94.99,medium,low,6,name.com,,,17/08/2026 20:36
@@ -610,6 +627,7 @@ cde94daa-cf51-40ad-aa06-b99521312a64,bakshis.insure,available,72.99,72.99,medium
 51370286-ae5d-4374-a892-fff8e73eccbd,actinidia.insure,available,76.98,91.98,medium,low,9,namecheap,,,17/09/2026 04:47
 b16e58b0-6d32-4f2e-aa66-d113bf92f6a6,earthborn.insure,available,9.99,94.99,medium,low,9,name.com,,,14/08/2026 22:35
 43f57f59-5f8d-4400-a2d8-3cce5b1890ac,primate.insure,available,72.99,72.99,high,low,7,namesilo,,,20/09/2026 02:39
+fe41524b-a974-40e8-b131-38ac98d7fba7,rebuild.insure,available,72.99,72.99,high,low,7,namesilo,,,28/09/2026 06:58
 148b4b54-7718-490f-853e-77f89668babf,adjustor.insure,available,72.99,72.99,high,low,8,namesilo,,,17/09/2026 08:34
 953704c1-6dc9-4352-a361-eeaa6924a18c,bedside.insure,available,72.99,72.99,high,low,7,namesilo,,,22/09/2026 23:34
 b589c2f6-cd14-4ef8-b109-bbe41298e009,cathy.insure,available,76.98,91.98,high,low,5,namecheap,,,17/09/2026 16:36
@@ -621,7 +639,7 @@ b4422215-1166-4f43-88c4-ef28a8c27b4e,loyal.insure,available,72.99,72.99,high,low
 d9019b1f-88de-4d51-8691-499a01e59c46,fried.insure,available,9.99,94.99,medium,low,5,name.com,,,13/08/2026 22:34
 3864882b-6166-447e-90d9-3be5c9e1e160,eccentric.insure,available,9.99,94.99,high,low,9,name.com,,,10/08/2026 09:50
 539fd58d-6e39-4008-bb51-f65f766b0060,abhorrence.insure,available,72.99,72.99,medium,low,10,namesilo,,,16/09/2026 15:25
-9dc17606-e13b-446e-94a1-fb9bb0aa48ec,facts.insure,available,72.99,72.99,high,low,5,namesilo,,,23/09/2026 17:41
+9dc17606-e13b-446e-94a1-fb9bb0aa48ec,facts.insure,available,72.99,72.99,high,low,5,namesilo,,,28/09/2026 04:09
 cb7b192c-8624-4203-bfa3-f3d9e2fd1768,pumping.insure,available,76.98,91.98,high,low,7,namecheap,,,17/09/2026 18:09
 27a6e364-695e-4d71-adff-12f91ad56490,chamomile.insure,available,72.99,72.99,high,low,9,namesilo,,,19/09/2026 13:01
 a2f2ca3c-0ef7-48bc-9a9f-976bf300eada,argus.insure,available,76.98,91.98,high,low,5,namecheap,,,20/09/2026 04:53
@@ -654,6 +672,7 @@ fa23cc07-ce5d-4bd3-a44f-4229307970e1,insolvent.insure,available,9.99,94.99,mediu
 a1235ae5-1c44-4548-873f-fe7f1aff2333,rake.insure,available,72.99,72.99,high,low,4,namesilo,,,27/09/2026 07:07
 a78d81b4-defb-4f29-8dfb-846355d6b1f0,virtuoso.insure,available,72.99,72.99,high,low,8,namesilo,,,21/09/2026 17:38
 a80023f1-3b5d-4b20-a4bc-e23a246d8bf7,buddhist.insure,available,9.99,94.99,high,low,8,name.com,,,11/08/2026 07:39
+c9530074-91ca-4eb4-b1b9-1788d93a42f9,taunton.insure,available,56.2,56.2,medium,low,7,cloudflare,,,28/09/2026 05:05
 23df20de-f4c0-4229-b0b7-32def25ca1a1,panadol.insure,available,76.98,91.98,high,low,7,namecheap,,,16/09/2026 23:53
 4b1a687c-a917-4cd9-9335-a66c70e88269,bead.insure,available,9.99,,high,low,4,name.com,,,
 97add97f-6d85-4164-8869-a79b4a5b7e44,kvetch.insure,available,72.99,72.99,medium,low,6,namesilo,,,08/09/2026 20:36
@@ -678,7 +697,7 @@ c7de48f3-bc42-456e-8064-680d7465548b,checkmate.insure,available,72.99,72.99,high
 00dc0f74-412e-4ba9-95bc-c6f356d17c75,congolese.insure,available,9.99,94.99,high,low,9,name.com,,,12/08/2026 21:54
 61c03be0-6d09-4572-a838-2db2059ed427,nephew.insure,available,9.99,,high,low,6,name.com,,,
 7898359b-626e-434f-88f1-0be4e86c0615,jarvis.insure,available,72.99,72.99,high,medium,6,namesilo,,,27/09/2026 01:43
-58a0a186-55aa-4c40-b5a0-4b8d3021a31d,environment.insure,available,72.99,72.99,high,low,11,namesilo,,,23/09/2026 08:17
+58a0a186-55aa-4c40-b5a0-4b8d3021a31d,environment.insure,available,58.16,58.16,high,low,11,spaceship,,,28/09/2026 03:49
 be082e38-c84b-48e5-a75d-2c50b2079a31,curving.insure,available,9.99,94.99,high,low,7,name.com,,,13/08/2026 11:49
 c60c3898-0d55-4d59-8c45-5856d6bf38b2,repeal.insure,available,76.98,91.98,medium,low,6,namecheap,,,16/09/2026 17:15
 6167a78d-0df3-492c-8dbf-eec8fcc05fcf,neuter.insure,available,72.99,72.99,medium,low,6,namesilo,,,03/09/2026 16:30
@@ -707,7 +726,7 @@ e1e4d7f0-c108-42d0-9ab8-64b31a540947,gaza.insure,available,72.99,72.99,medium,lo
 6a0fcb74-3955-4e73-a306-3ff969936e52,aware.insure,available,76.98,91.98,high,low,5,namecheap,,,25/09/2026 20:16
 94a91b23-1328-41e5-a01b-7d5aeecbfe5f,longroot.insure,available,72.99,72.99,medium,low,8,namesilo,,,20/09/2026 03:40
 ce957b1b-a4ce-4e98-add4-0fb5ba169811,atonic.insure,available,9.99,94.99,low,low,6,name.com,,,07/08/2026 13:54
-be148ca9-a9ae-43e9-96c2-97ef972d58ac,electricity.insure,available,9.99,,high,low,11,name.com,,,
+be148ca9-a9ae-43e9-96c2-97ef972d58ac,electricity.insure,available,56.2,56.2,high,low,11,cloudflare,,,28/09/2026 07:43
 09082e65-3799-4b39-a00a-2fb11ff77d93,engineering.insure,available,56.2,56.2,high,low,11,cloudflare,,,28/09/2026 02:50
 199363d8-c3e4-416a-8830-3c8a4c86ea4a,hiemal.insure,available,9.99,94.99,medium,low,6,name.com,,,11/08/2026 06:40
 a5e9d52e-d055-4174-860b-a5e0fe49ae03,mercenary.insure,available,9.99,94.99,high,low,9,name.com,,,24/08/2026 17:14
@@ -722,12 +741,12 @@ b3f6d2cf-4ef8-474b-9353-4dfd8a25278d,depressant.insure,available,9.99,94.99,medi
 2afb15e2-341d-4cd4-aeb9-6ed64e6b1a30,patchy.insure,available,72.99,72.99,medium,low,6,namesilo,,,08/09/2026 10:20
 6155c518-42f4-416f-a263-f7fb6e39bf3a,bulging.insure,available,9.99,94.99,medium,low,7,name.com,,,09/08/2026 13:41
 7c05a596-4508-448e-9afd-511d772215f4,yeller.insure,available,72.99,72.99,medium,low,6,namesilo,,,22/09/2026 17:06
-763864f5-0532-4fe4-98bd-0a1164e35bdb,vehicle.insure,premium,260,260,high,low,7,namecheap,,,
 d3ea3e7e-b168-440c-a190-81677e9f1d6c,unlovely.insure,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 15:12
 6a1632e0-62f2-42f9-baf5-4e9f75dac0a2,snow.insure,available,9.99,,high,low,4,name.com,,,
 592bddc2-1ace-47ef-9416-a2f2d272ca03,katharsis.insure,available,72.99,72.99,medium,low,9,namesilo,,,16/09/2026 17:05
 da8e491f-febc-4d6c-856b-09e40c70739b,streaked.insure,available,72.99,72.99,medium,low,8,namesilo,,,10/09/2026 22:16
 9a59dd73-7812-4c16-9616-b019455c1e43,arching.insure,available,9.99,94.99,medium,low,7,name.com,,,06/08/2026 14:39
+d01f8f52-7cfd-497c-bf4c-223a81c1d967,genesee.insure,available,56.2,56.2,medium,low,7,cloudflare,,,28/09/2026 08:10
 e9c5bdbf-98d7-469a-80b3-9fd8a4325c3e,tog.insure,available,76.98,91.98,high,low,3,namecheap,,,19/09/2026 20:00
 d60cda9f-57b1-46ac-ad45-3ff73e117ee0,asch.insure,available,76.98,91.98,high,low,4,namecheap,,,20/09/2026 13:15
 37aa7b72-0859-448b-8e84-54b5669a2f22,toying.insure,available,9.99,,high,low,6,name.com,,,
@@ -791,10 +810,10 @@ f76bcc88-890f-4843-b413-0bf7bf7f405a,coffee.insure,available,9.99,,high,medium,6
 f4678cd3-93d3-4681-8442-db5a85addcb6,ham.insure,available,9.99,,high,low,3,name.com,,,
 b7b2587b-4ec9-4399-b081-d19053406534,odor.insure,available,72.99,72.99,high,low,4,namesilo,,,20/09/2026 08:25
 0149e2c3-62ff-4a9d-b86c-350071b12b1b,barnacle.insure,available,72.99,72.99,medium,low,8,namesilo,,,22/09/2026 06:46
-7482caad-9662-4e33-b6bc-2a34ca9ab958,system.insure,available,72.99,72.99,high,medium,6,namesilo,,,23/09/2026 06:54
+7482caad-9662-4e33-b6bc-2a34ca9ab958,system.insure,available,72.99,72.99,high,medium,6,namesilo,,,28/09/2026 04:06
 a5281e3a-bd73-49ff-987b-c5dd366d317b,foodie.insure,available,9.99,94.99,high,low,6,name.com,,,17/08/2026 10:47
 d4b7cf0b-493b-4749-81d4-60dadadab3cc,unsaid.insure,available,72.99,72.99,medium,low,6,namesilo,,,12/09/2026 09:43
-caf5d8ee-50ee-4563-8985-85ce47547b7b,fitness.insure,available,9.99,,high,low,7,name.com,,,
+caf5d8ee-50ee-4563-8985-85ce47547b7b,fitness.insure,available,58.16,58.16,high,medium,7,spaceship,,,28/09/2026 07:35
 ee841239-0b6a-4128-bdd3-062660bbc660,existing.insure,available,72.99,72.99,high,low,8,namesilo,,,24/09/2026 15:59
 64f85bc6-db2e-44fd-b752-0b35662e7952,almond.insure,available,9.99,,high,low,6,name.com,,,
 28bf1abf-6f20-454a-a943-d862f6f9af56,impacted.insure,available,9.99,94.99,medium,low,8,name.com,,,21/08/2026 21:36
@@ -823,6 +842,7 @@ e424e22c-3a65-4af6-8dfa-1fb31ae67289,akvavit.insure,available,72.99,72.99,medium
 bf158782-a4c1-491e-830f-359a7379d9a4,cutaneal.insure,available,9.99,94.99,medium,low,8,name.com,,,13/08/2026 12:57
 7c1137aa-fe9e-4a5f-a431-c07c8de00e07,textured.insure,available,9.99,94.99,medium,low,8,name.com,,,12/08/2026 14:07
 1691db44-f541-48f8-88cb-e10a5c5a2462,hitter.insure,available,76.98,91.98,high,low,6,namecheap,,,22/09/2026 14:18
+a2ed8c18-f0bb-4312-a412-da822444f034,extent.insure,available,76.98,91.98,high,low,6,namecheap,,,28/09/2026 05:39
 4fc8c932-4dc5-4378-94b2-6e1cf727e51b,quiz.insure,available,76.98,91.98,high,low,4,namecheap,,,27/09/2026 02:23
 eda3c982-89bb-4c49-912d-0dac85c8b7e7,infrasonic.insure,available,9.99,94.99,medium,low,10,name.com,,,22/08/2026 04:48
 36b3305e-4b37-4d15-ad2f-adeea56ae4b8,unrealised.insure,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 11:02
@@ -841,6 +861,7 @@ d3a678c7-2e43-4401-8ebd-ef04653648d4,cerulean.insure,available,9.99,94.99,high,l
 c1cbb1a3-53cf-4848-95df-3522f3277987,lennon.insure,available,58.16,58.16,high,low,6,spaceship,,,27/09/2026 14:28
 5a2aa85d-59e1-40ff-9d01-9fdae08ec154,white.insure,available,72.99,72.99,high,medium,5,namesilo,,,19/09/2026 14:26
 1ab7d651-1b64-4fc6-b262-382cf3f55530,accordance.insure,available,72.99,72.99,high,low,10,namesilo,,,16/09/2026 23:00
+1aca598e-2dc3-4d51-94b4-b7e7b512d2d2,harlow.insure,available,72.99,72.99,high,low,6,namesilo,,,28/09/2026 05:57
 39f91677-842e-4f4a-969d-4de0e5e9479a,icky.insure,available,9.99,94.99,medium,low,4,name.com,,,13/08/2026 05:07
 2107fdd0-7326-4e6c-b26a-86148e570ea3,unwanted.insure,available,72.99,72.99,high,low,8,namesilo,,,12/09/2026 07:48
 43b7d105-bb23-4eb9-a005-66d44ce934dd,guthrie.insure,available,72.99,72.99,high,low,7,namesilo,,,25/09/2026 06:47
@@ -910,7 +931,9 @@ be563bff-9125-4896-89ee-b263cc170277,aristotle.insure,available,72.99,72.99,high
 4bac9a3b-111d-4221-a2ff-01cd537900d1,tubed.insure,available,76.98,91.98,medium,low,5,namecheap,,,11/09/2026 20:56
 5c60bebf-6b5f-4db5-b969-21c2f7a2a079,pancreatic.insure,available,72.99,72.99,medium,low,10,namesilo,,,05/09/2026 00:36
 7a046c0c-2655-4b33-aa89-1d7244a15a64,summarizing.insure,available,76.98,91.98,medium,low,11,namecheap,,,17/09/2026 10:36
+3c1d50aa-68cc-4788-863b-320fc2f942b2,guerrero.insure,available,5.57,60.14,high,low,8,dynadot,,,28/09/2026 04:07
 ede21f8d-f228-45d0-8cfb-d4b09fb70c97,onion.insure,available,9.99,,high,low,5,name.com,,,
+7815c919-26c3-4aa3-8681-a1a218e196a0,institute.insure,available,5.57,60.14,high,low,9,dynadot,,,28/09/2026 06:02
 69d4cf04-ea28-4c2a-9ec2-7d6cb42a8909,heroically.insure,available,72.99,72.99,high,low,10,namesilo,,,15/09/2026 00:39
 e4bd7100-8aa5-4042-a347-d4f7ab377f23,juiceless.insure,available,9.99,94.99,medium,low,9,name.com,,,22/08/2026 14:18
 f9aa8ea5-7adb-4c4a-9569-1c21c5bfb3f1,bize.insure,available,76.98,91.98,medium,low,4,namecheap,,,23/09/2026 21:41
@@ -976,26 +999,3 @@ b0692454-945d-4991-8d8a-892f3b12030a,grounds.insure,available,76.98,91.98,high,l
 596a992c-d08c-471e-a12f-da6fbe31039d,prototypal.insure,available,9.99,94.99,medium,low,10,name.com,,,06/08/2026 15:37
 03515063-2ca4-4cc1-bdd4-d15b9c96f22f,yamani.insure,available,76.98,91.98,medium,low,6,namecheap,,,17/09/2026 20:29
 6159d546-6770-44a8-a7c1-bdb261011f5a,spruce.insure,available,9.99,94.99,high,low,6,name.com,,,13/08/2026 17:37
-2308da59-7138-423e-b787-e741e4dfa4d2,tilted.insure,available,9.99,94.99,high,low,6,name.com,,,07/08/2026 13:29
-96a51652-062f-427d-a624-974d21644b06,storytellers.insure,available,72.99,72.99,high,low,12,namesilo,,,20/09/2026 12:55
-546508f1-7175-4f6d-b79b-55c24627e1a7,panamanian.insure,available,72.99,72.99,high,low,10,namesilo,,,05/09/2026 00:34
-cc8f3449-3a6b-4951-8eb8-d01f8c17a50f,asper.insure,available,9.99,94.99,medium,low,5,name.com,,,20/09/2026 14:47
-67f8ce6e-95ad-4dfd-a4b5-226f01971978,tailless.insure,available,9.99,94.99,medium,low,8,name.com,,,05/08/2026 21:33
-c36f91f9-75eb-406e-9e48-1b2d84b52887,undeclared.insure,available,72.99,72.99,medium,low,10,namesilo,,,12/09/2026 07:06
-d9f1cf89-49cd-4335-bd60-0c379f850c8f,undreamt.insure,available,72.99,72.99,medium,low,8,namesilo,,,12/09/2026 08:24
-c4fdb808-1bee-408d-af8d-43f7ef9fd2e3,apogean.insure,available,9.99,94.99,medium,low,7,name.com,,,06/08/2026 01:57
-dcc0f234-3c4b-4131-9bc2-af7a13480fca,summer.insure,available,72.99,72.99,high,low,6,namesilo,,,27/09/2026 05:34
-fe1d410f-ec95-4729-a744-b6568247dcad,balsamic.insure,available,76.98,91.98,high,low,8,namecheap,,,22/09/2026 16:34
-9e476682-4bf9-4023-a579-feade28ac12e,hooked.insure,available,72.99,72.99,high,low,6,namesilo,,,22/09/2026 07:30
-60a41af6-4699-4d40-9962-5ff7250e8537,theirs.insure,available,9.99,,medium,low,6,name.com,,,
-90755f51-39bb-46f5-8a75-5c720df2ecb7,appearing.insure,available,76.98,91.98,high,low,9,namecheap,,,19/09/2026 20:25
-1599d016-e194-4629-83c6-325605aa97ed,knights.insure,available,58.16,58.16,high,low,7,spaceship,,,27/09/2026 18:23
-c357295d-757e-476d-b7e7-d7a2b6916a7d,avuncular.insure,available,9.99,94.99,high,low,9,name.com,,,07/08/2026 23:51
-8b675862-62b5-4ef9-a818-da0cc7bb1aa2,plans.insure,available,9.99,,high,low,5,name.com,,,
-94df0d29-48c3-4a9e-ba79-1c7a71597c3d,closet.insure,available,72.99,72.99,high,low,6,namesilo,,,24/09/2026 15:59
-d1653cd2-80b3-4fef-94c8-5c05afe6363d,veracious.insure,available,72.99,72.99,high,low,9,namesilo,,,13/09/2026 02:19
-3564a533-4a90-4f57-8b07-2d018f62a819,rakes.insure,available,72.99,72.99,medium,low,5,namesilo,,,20/09/2026 22:29
-6e128fd5-37e8-4817-9254-e1bbe82d291f,innocent.insure,available,9.99,94.99,high,low,8,name.com,,,12/08/2026 10:16
-c05603d1-c100-464e-a77e-1e0545385bfe,sudanese.insure,available,72.99,72.99,high,low,8,namesilo,,,11/09/2026 01:05
-dea530f1-6e12-4d9b-8bad-61195b0b0eab,lxiii.insure,available,9.99,94.99,medium,low,5,name.com,,,
-5b95d062-db87-42cf-876b-3099e64fcbd7,backchat.insure,available,72.99,72.99,medium,low,8,namesilo,,,21/09/2026 15:20
